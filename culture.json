@@ -1,0 +1,2206 @@
+{
+  "generale": [
+    {
+      "q": "Qui est l'auteur de La Marseillaise ?",
+      "a": "Rouget de l'Isle",
+      "d": [
+        "Victor Hugo",
+        "Hector Berlioz",
+        "Jean-Jacques Rousseau",
+        "Claude Joseph Gossec"
+      ]
+    },
+    {
+      "q": "Que s'est-il passé le 18 juin 1940 ?",
+      "a": "Allocution du général de Gaulle à la radio BBC depuis Londres pour appeler à poursuivre la guerre",
+      "d": [
+        "Signature de l'armistice avec l'Allemagne",
+        "Début de la bataille de France",
+        "Libération de Paris",
+        "Déclaration de guerre à l'Allemagne"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le Chant des partisans ?",
+      "a": "L'hymne de la Résistance française durant l'occupation nazie",
+      "d": [
+        "L'hymne national de la France",
+        "La marche de la Légion étrangère",
+        "Un chant révolutionnaire de 1789",
+        "L'hymne de l'Union européenne"
+      ]
+    },
+    {
+      "q": "Parmi ces pays, lequel ne fait pas partie de l'Union européenne ?",
+      "a": "La Norvège",
+      "d": [
+        "La Suède",
+        "Le Portugal",
+        "La Croatie",
+        "L'Autriche"
+      ]
+    },
+    {
+      "q": "Quelle est la date du Débarquement en Normandie ?",
+      "a": "6 juin 1944",
+      "d": [
+        "8 mai 1945",
+        "11 novembre 1918",
+        "14 juillet 1944",
+        "18 juin 1940"
+      ]
+    },
+    {
+      "q": "Combien y avait-il de pays membres de l'Union européenne au 1er janvier 2021 ?",
+      "a": "27",
+      "d": [
+        "28",
+        "26",
+        "25",
+        "30"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le Traité de Versailles ?",
+      "a": "Un traité de paix signé en 1919 entre l'Allemagne et les Alliés",
+      "d": [
+        "Le traité fondateur de l'Union européenne",
+        "L'alliance militaire de l'OTAN",
+        "Le traité de paix de 1945",
+        "Un accord de défense franco-allemand"
+      ]
+    },
+    {
+      "q": "Quel type d'alphabet est utilisé pour les communications militaires ?",
+      "a": "L'alphabet international (phonétique)",
+      "d": [
+        "L'alphabet morse",
+        "L'alphabet cyrillique",
+        "L'alphabet braille",
+        "L'alphabet grec"
+      ]
+    },
+    {
+      "q": "Quelles sont les dates de la Première Guerre mondiale ?",
+      "a": "1914 - 1918",
+      "d": [
+        "1939 - 1945",
+        "1870 - 1871",
+        "1914 - 1916",
+        "1918 - 1920"
+      ]
+    },
+    {
+      "q": "Quelles sont les dates de la Seconde Guerre mondiale ?",
+      "a": "1939 - 1945",
+      "d": [
+        "1914 - 1918",
+        "1940 - 1944",
+        "1939 - 1944",
+        "1938 - 1945"
+      ]
+    },
+    {
+      "q": "Qui était le dirigeant de l'Allemagne pendant la Seconde Guerre mondiale ?",
+      "a": "Adolf Hitler",
+      "d": [
+        "Otto von Bismarck",
+        "Guillaume II",
+        "Konrad Adenauer",
+        "Heinrich Himmler"
+      ]
+    },
+    {
+      "q": "Qui était le Premier ministre britannique pendant la Seconde Guerre mondiale ?",
+      "a": "Winston Churchill",
+      "d": [
+        "Neville Chamberlain",
+        "Clement Attlee",
+        "Margaret Thatcher",
+        "Anthony Eden"
+      ]
+    },
+    {
+      "q": "Qui dirigeait la France entre 1940 et 1944 ?",
+      "a": "Le maréchal Philippe Pétain",
+      "d": [
+        "Charles de Gaulle",
+        "Pierre Laval",
+        "Léon Blum",
+        "Paul Reynaud"
+      ]
+    },
+    {
+      "q": "Qui était le premier président de la Ve République ?",
+      "a": "Charles de Gaulle",
+      "d": [
+        "René Coty",
+        "Georges Pompidou",
+        "Vincent Auriol",
+        "François Mitterrand"
+      ]
+    },
+    {
+      "q": "Qui était le président de la République élu en 1981 ?",
+      "a": "François Mitterrand",
+      "d": [
+        "Valéry Giscard d'Estaing",
+        "Jacques Chirac",
+        "Georges Pompidou",
+        "Charles de Gaulle"
+      ]
+    },
+    {
+      "q": "Qui était le président de la République élu en 1995 ?",
+      "a": "Jacques Chirac",
+      "d": [
+        "François Mitterrand",
+        "Nicolas Sarkozy",
+        "Lionel Jospin",
+        "Édouard Balladur"
+      ]
+    },
+    {
+      "q": "Qui est le président de la République élu en 2017 ?",
+      "a": "Emmanuel Macron",
+      "d": [
+        "François Hollande",
+        "Nicolas Sarkozy",
+        "François Fillon",
+        "Manuel Valls"
+      ]
+    },
+    {
+      "q": "Qui est le « Roi Soleil » ?",
+      "a": "Louis XIV",
+      "d": [
+        "Louis XVI",
+        "Louis XV",
+        "Henri IV",
+        "François Ier"
+      ]
+    },
+    {
+      "q": "Quel roi a été guillotiné lors de la Révolution française ?",
+      "a": "Louis XVI",
+      "d": [
+        "Louis XIV",
+        "Louis XV",
+        "Charles X",
+        "Napoléon Ier"
+      ]
+    },
+    {
+      "q": "Comment s'appelaient les ancêtres des Français vaincus par les Romains ?",
+      "a": "Les Gaulois",
+      "d": [
+        "Les Francs",
+        "Les Wisigoths",
+        "Les Burgondes",
+        "Les Saxons"
+      ]
+    },
+    {
+      "q": "Comment s'appelait Paris au temps de l'Empire romain ?",
+      "a": "Lutèce",
+      "d": [
+        "Massalia",
+        "Lugdunum",
+        "Gergovie",
+        "Alésia"
+      ]
+    },
+    {
+      "q": "En quelle année a débuté la Révolution française ?",
+      "a": "1789",
+      "d": [
+        "1799",
+        "1815",
+        "1848",
+        "1792"
+      ]
+    },
+    {
+      "q": "Où habite le président de la République française ?",
+      "a": "Au palais de l'Élysée",
+      "d": [
+        "À l'hôtel de Matignon",
+        "Au château de Versailles",
+        "Au palais Bourbon",
+        "Au palais du Luxembourg"
+      ]
+    },
+    {
+      "q": "Où habite le Premier ministre français ?",
+      "a": "À l'hôtel de Matignon",
+      "d": [
+        "Au palais de l'Élysée",
+        "Au palais Bourbon",
+        "À l'hôtel de Brienne",
+        "Au palais du Luxembourg"
+      ]
+    },
+    {
+      "q": "Quelle est la devise de la France ?",
+      "a": "Liberté, Égalité, Fraternité",
+      "d": [
+        "Honneur et Patrie",
+        "Un pour tous, tous pour un",
+        "Dieu et mon droit",
+        "Travail, Famille, Patrie"
+      ]
+    },
+    {
+      "q": "Qui était Napoléon Bonaparte ?",
+      "a": "Empereur des Français de 1804 à 1815",
+      "d": [
+        "Un roi de France",
+        "Le premier président de la République",
+        "Un maréchal d'Empire sous Louis XVIII",
+        "Un héros de la guerre de Cent Ans"
+      ]
+    },
+    {
+      "q": "En France, qui est le chef du gouvernement ?",
+      "a": "Le Premier ministre",
+      "d": [
+        "Le président de la République",
+        "Le président de l'Assemblée nationale",
+        "Le président du Sénat",
+        "Le ministre de l'Intérieur"
+      ]
+    },
+    {
+      "q": "Quel est le plus long fleuve de France ?",
+      "a": "La Loire",
+      "d": [
+        "La Seine",
+        "Le Rhône",
+        "La Garonne",
+        "Le Rhin"
+      ]
+    },
+    {
+      "q": "Quel fleuve traverse Paris ?",
+      "a": "La Seine",
+      "d": [
+        "La Loire",
+        "La Marne",
+        "Le Rhône",
+        "L'Oise"
+      ]
+    },
+    {
+      "q": "Quel fleuve traverse Lyon avec la Saône ?",
+      "a": "Le Rhône",
+      "d": [
+        "La Seine",
+        "La Loire",
+        "La Garonne",
+        "La Durance"
+      ]
+    },
+    {
+      "q": "Quel fleuve traverse Bordeaux ?",
+      "a": "La Garonne",
+      "d": [
+        "La Dordogne",
+        "La Loire",
+        "Le Rhône",
+        "La Charente"
+      ]
+    },
+    {
+      "q": "Quel fleuve marque la frontière à Strasbourg ?",
+      "a": "Le Rhin",
+      "d": [
+        "Le Rhône",
+        "La Meuse",
+        "La Moselle",
+        "La Seine"
+      ]
+    },
+    {
+      "q": "Quelle est la capitale de la France ?",
+      "a": "Paris",
+      "d": [
+        "Lyon",
+        "Marseille",
+        "Bordeaux",
+        "Toulouse"
+      ]
+    },
+    {
+      "q": "Quelle est la monnaie de la France ?",
+      "a": "L'euro",
+      "d": [
+        "Le franc",
+        "Le dollar",
+        "La livre",
+        "Le mark"
+      ]
+    },
+    {
+      "q": "Quel est le plus haut sommet de France ?",
+      "a": "Le mont Blanc",
+      "d": [
+        "Le mont Aiguille",
+        "Le pic du Midi",
+        "La barre des Écrins",
+        "Le puy de Sancy"
+      ]
+    },
+    {
+      "q": "Quelle mer borde la Côte d'Azur ?",
+      "a": "La mer Méditerranée",
+      "d": [
+        "L'océan Atlantique",
+        "La mer du Nord",
+        "La Manche",
+        "La mer Baltique"
+      ]
+    },
+    {
+      "q": "Quel est l'hymne national français ?",
+      "a": "La Marseillaise",
+      "d": [
+        "Le Chant des partisans",
+        "Le Chant du départ",
+        "L'Hymne à la joie",
+        "La Marche de la Légion"
+      ]
+    },
+    {
+      "q": "Combien y a-t-il de régions métropolitaines depuis 2016 ?",
+      "a": "13",
+      "d": [
+        "22",
+        "18",
+        "12",
+        "15"
+      ]
+    },
+    {
+      "q": "Quel détroit sépare la France du Royaume-Uni à son point le plus étroit ?",
+      "a": "Le pas de Calais",
+      "d": [
+        "La mer du Nord",
+        "Le golfe de Gascogne",
+        "La mer d'Irlande",
+        "Le détroit de Gibraltar"
+      ]
+    }
+  ],
+  "militaire": [
+    {
+      "q": "Que signifie l'expression « la fonction prime le grade » ?",
+      "a": "La fonction occupée est hiérarchiquement prioritaire par rapport au grade",
+      "d": [
+        "Le grade prime toujours sur la fonction",
+        "Les fonctions sont attribuées selon l'ancienneté",
+        "La fonction et le grade sont indissociables",
+        "Le grade détermine la solde"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le MCO ?",
+      "a": "Maintien en condition opérationnelle",
+      "d": [
+        "Mission de coopération opérationnelle",
+        "Module de commandement opérationnel",
+        "Maintenance et conduite des opérations",
+        "Manœuvre et contrôle des objectifs"
+      ]
+    },
+    {
+      "q": "Comment appelle-t-on un militaire qui quitte l'armée sans officiellement en démissionner ?",
+      "a": "Un déserteur",
+      "d": [
+        "Un réformé",
+        "Un objecteur",
+        "Un permissionnaire",
+        "Un réserviste"
+      ]
+    },
+    {
+      "q": "Où est situé le 13e bataillon de chasseurs alpins ?",
+      "a": "Chambéry",
+      "d": [
+        "Annecy",
+        "Varces",
+        "Grenoble",
+        "Briançon"
+      ]
+    },
+    {
+      "q": "Comment surnomme-t-on les chasseurs alpins ?",
+      "a": "Les diables bleus",
+      "d": [
+        "Les diables rouges",
+        "Les alpinistes",
+        "Les montagnards",
+        "Les bérets verts"
+      ]
+    },
+    {
+      "q": "Quel général fantassin parachutiste s'est particulièrement distingué en Indochine ?",
+      "a": "Le général Bigeard",
+      "d": [
+        "Le général Leclerc",
+        "Le général de Lattre de Tassigny",
+        "Le général Massu",
+        "Le général Salan"
+      ]
+    },
+    {
+      "q": "Quelle est la couleur de l'arme de l'infanterie ?",
+      "a": "Jaune (jonquille)",
+      "d": [
+        "Rouge",
+        "Bleu",
+        "Vert",
+        "Noir"
+      ]
+    },
+    {
+      "q": "Quelle est la date de la Fête de l'infanterie ?",
+      "a": "22 septembre",
+      "d": [
+        "4 décembre",
+        "14 juillet",
+        "8 mai",
+        "11 novembre"
+      ]
+    },
+    {
+      "q": "Qui est le saint patron de l'infanterie ?",
+      "a": "Saint Maurice",
+      "d": [
+        "Sainte Barbe",
+        "Saint Michel",
+        "Saint Georges",
+        "Saint Martin"
+      ]
+    },
+    {
+      "q": "Où est situé le 7e bataillon de chasseurs alpins ?",
+      "a": "Varces",
+      "d": [
+        "Chambéry",
+        "Annecy",
+        "Grenoble",
+        "Gap"
+      ]
+    },
+    {
+      "q": "Quel est le véhicule majeur de l'infanterie mécanisée ?",
+      "a": "Le VBCI",
+      "d": [
+        "Le VAB",
+        "Le Griffon",
+        "L'AMX-10 RC",
+        "Le char Leclerc"
+      ]
+    },
+    {
+      "q": "Quelle couleur est surnommée le « garance » par les chasseurs alpins ?",
+      "a": "Le rouge",
+      "d": [
+        "Le jaune",
+        "Le bleu",
+        "Le vert",
+        "Le blanc"
+      ]
+    },
+    {
+      "q": "Quelle couleur est surnommée le « jonquille » par les chasseurs alpins ?",
+      "a": "Le jaune",
+      "d": [
+        "Le rouge",
+        "Le bleu",
+        "Le vert",
+        "L'orange"
+      ]
+    },
+    {
+      "q": "Où est situé le 27e bataillon de chasseurs alpins ?",
+      "a": "Annecy",
+      "d": [
+        "Chambéry",
+        "Varces",
+        "Grenoble",
+        "Albertville"
+      ]
+    },
+    {
+      "q": "À quel grade équivaut le grade de maréchal des logis ?",
+      "a": "Sergent",
+      "d": [
+        "Caporal",
+        "Adjudant",
+        "Brigadier",
+        "Sergent-chef"
+      ]
+    },
+    {
+      "q": "Quelle est la durée d'une préparation militaire supérieure ?",
+      "a": "21 jours",
+      "d": [
+        "10 jours",
+        "30 jours",
+        "15 jours",
+        "3 mois"
+      ]
+    },
+    {
+      "q": "Que sont les troupes de marine ?",
+      "a": "Une composante de l'armée de Terre, anciennement appelées « troupes coloniales »",
+      "d": [
+        "Une composante de la Marine nationale",
+        "Les fusiliers marins",
+        "Les commandos de marine",
+        "Une réserve navale"
+      ]
+    },
+    {
+      "q": "Quelle est la devise de l'armée de Terre ?",
+      "a": "Honneur et Patrie",
+      "d": [
+        "Honneur et Fidélité",
+        "Liberté, Égalité, Fraternité",
+        "Servir",
+        "Valeur et Discipline"
+      ]
+    },
+    {
+      "q": "Où a eu lieu le premier essai nucléaire français ?",
+      "a": "Reggane, en Algérie",
+      "d": [
+        "Mururoa, en Polynésie",
+        "L'atoll de Bikini",
+        "Le Sahara libyen",
+        "Cherbourg"
+      ]
+    },
+    {
+      "q": "Qu'appelle-t-on le devoir de réserve ?",
+      "a": "L'obligation de faire preuve de retenue dans l'expression de ses opinions personnelles",
+      "d": [
+        "L'obligation de rejoindre la réserve militaire",
+        "Le droit de garder le silence en opération",
+        "L'interdiction totale de s'exprimer en public",
+        "L'obligation de servir en cas de mobilisation"
+      ]
+    },
+    {
+      "q": "Quel est le statut des pompiers en France ?",
+      "a": "Tous civils, sauf les Sapeurs-pompiers de Paris, les Marins-pompiers de Marseille et les pompiers militaires (air, forces terrestres, aéronautiques)",
+      "d": [
+        "Tous les pompiers ont un statut militaire",
+        "Tous les pompiers sont civils sans exception",
+        "Seuls les pompiers de Paris et Marseille sont civils",
+        "Les pompiers dépendent de la gendarmerie"
+      ]
+    },
+    {
+      "q": "Que signifie l'acronyme CIRFA ?",
+      "a": "Centre d'information et de recrutement des forces armées",
+      "d": [
+        "Commandement interarmées des réserves et forces auxiliaires",
+        "Cellule d'information et de renseignement des forces armées",
+        "Centre interrégional de formation des armées",
+        "Centre d'instruction et de recyclage des forces armées"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'Initiative européenne d'intervention ?",
+      "a": "Une initiative visant à favoriser l'émergence d'une culture stratégique européenne commune",
+      "d": [
+        "Une force armée commune de l'Union européenne",
+        "Le commandement européen de l'OTAN",
+        "Un programme d'armement européen",
+        "Une coalition d'intervention en Afrique"
+      ]
+    },
+    {
+      "q": "Dans la vie civile, on les appelle les congés. Leur équivalent dans l'armée s'appelle…",
+      "a": "Les permissions",
+      "d": [
+        "Les réserves",
+        "Les quartiers libres",
+        "Les détachements",
+        "Les repos compensateurs"
+      ]
+    },
+    {
+      "q": "Que sont les forces de présence ?",
+      "a": "Des forces stationnées dans des territoires alliés de la France",
+      "d": [
+        "Des forces dans les outre-mer français",
+        "Les forces de l'OTAN en Europe",
+        "Les forces déployées en OPEX",
+        "La réserve opérationnelle"
+      ]
+    },
+    {
+      "q": "Qu'appelle-t-on la « levée des couleurs » ?",
+      "a": "Hisser le drapeau national au sommet d'un mât",
+      "d": [
+        "Mettre le drapeau en berne",
+        "Le défilé des étendards",
+        "La remise des décorations",
+        "Le salut au drapeau au coucher du soleil"
+      ]
+    },
+    {
+      "q": "Quelles sont les composantes de la dissuasion nucléaire française ?",
+      "a": "Maritime et aérienne",
+      "d": [
+        "Terrestre et aérienne",
+        "Maritime et terrestre",
+        "Aérienne et spatiale",
+        "Maritime, terrestre et aérienne"
+      ]
+    },
+    {
+      "q": "Si vous êtes fait prisonnier de guerre, quel est votre devoir ?",
+      "a": "M'échapper",
+      "d": [
+        "Collaborer",
+        "Garder le silence absolu",
+        "Négocier ma libération",
+        "Ne donner que mon grade"
+      ]
+    },
+    {
+      "q": "Quelle est la différence entre les armes dites « blanches » et « jaunes » ?",
+      "a": "Historiquement, les armes blanches désignent les troupes à cheval et les armes jaunes les troupes à pied",
+      "d": [
+        "Les armes blanches sont les couteaux, les jaunes les armes à feu",
+        "Ce sont les couleurs des uniformes d'apparat",
+        "Ce sont les armes anciennes et les armes modernes",
+        "Ce sont les armes de la cavalerie et de l'artillerie"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que La Strasbourgeoise ?",
+      "a": "Un chant militaire composé après la défaite française de 1870 contre la Prusse",
+      "d": [
+        "Un hymne de la ville de Strasbourg",
+        "Une marche de la Légion étrangère",
+        "Un chant de la Résistance",
+        "L'hymne de l'armée de l'air"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le FAMAS ?",
+      "a": "Le fusil d'assaut de la manufacture d'armes de Saint-Étienne",
+      "d": [
+        "Un fusil automatique de moyenne portée",
+        "Un fusil anti-matériel de Saint-Étienne",
+        "Un fusil d'appui mitrailleur",
+        "Un fusil à amplification de son"
+      ]
+    },
+    {
+      "q": "Que signifie OTAN ?",
+      "a": "Organisation du Traité de l'Atlantique Nord",
+      "d": [
+        "Organisation des Territoires Alliés du Nord",
+        "Organisation du Traité des Armées du Nord",
+        "Organisation transatlantique des Nations",
+        "Office du Traité de l'Atlantique Nord"
+      ]
+    },
+    {
+      "q": "Que signifie l'acronyme NRBC ?",
+      "a": "Nucléaire, radiologique, biologique, chimique",
+      "d": [
+        "Nucléaire, radar, balistique, cyber",
+        "Naval, radiologique, biologique, chimique",
+        "Nucléaire, radiologique, bactériologique, climatique",
+        "Nouvelle réserve des bases et casernes"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le COS ?",
+      "a": "Le Commandement des opérations spéciales",
+      "d": [
+        "Le Centre des opérations stratégiques",
+        "Le Commandement des opérations de surface",
+        "Le Corps des officiers supérieurs",
+        "Le Commandement opérationnel du Sud"
+      ]
+    },
+    {
+      "q": "Quel service de renseignement est en charge de la sécurité du personnel et des installations sensibles ?",
+      "a": "La Direction du renseignement et de la sécurité de la défense (DRSD)",
+      "d": [
+        "La DGSE",
+        "La DGSI",
+        "La DRM",
+        "La direction des affaires intérieures"
+      ]
+    },
+    {
+      "q": "Qu'appelle-t-on le « tatou » dans l'armée ?",
+      "a": "Un couteau multifonction",
+      "d": [
+        "Un véhicule blindé léger",
+        "Un gilet pare-balles",
+        "Un casque de combat",
+        "Un abri individuel"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le major général des armées ?",
+      "a": "L'adjoint du chef d'État-Major des armées, second militaire le plus gradé de l'armée française",
+      "d": [
+        "Le plus haut gradé de l'armée de Terre",
+        "Le chef d'état-major particulier du président",
+        "Le commandant des opérations",
+        "Le grade le plus élevé des sous-officiers"
+      ]
+    },
+    {
+      "q": "Quelle est la nationalité de l'entreprise qui commercialise le pistolet Glock 17 ?",
+      "a": "Autrichienne",
+      "d": [
+        "Allemande",
+        "Suisse",
+        "Italienne",
+        "Belge"
+      ]
+    },
+    {
+      "q": "Quel est le nom de la coiffe portée par le personnel militaire féminin, équivalent du képi ?",
+      "a": "Le tricorne",
+      "d": [
+        "Le béret",
+        "Le calot",
+        "Le bicorne",
+        "Le chapeau de feutre"
+      ]
+    },
+    {
+      "q": "Quelles sont les fonctions stratégiques des Armées ?",
+      "a": "Connaissance et anticipation, dissuasion, protection, intervention, prévention",
+      "d": [
+        "Attaque, défense, soutien, logistique",
+        "Dissuasion, attaque, repli, négociation",
+        "Protection, répression, renseignement",
+        "Terre, mer, air, espace, cyber"
+      ]
+    },
+    {
+      "q": "Où siège le ministre des Armées ?",
+      "a": "À l'hôtel de Brienne",
+      "d": [
+        "À l'hôtel de Matignon",
+        "Au palais de l'Élysée",
+        "À l'hexagone Balard",
+        "Aux Invalides"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le TIOR ?",
+      "a": "Les techniques d'intervention opérationnelle rapprochée",
+      "d": [
+        "Le tir d'instruction opérationnel régimentaire",
+        "La transmission d'information en opération",
+        "La technique d'infiltration en opération",
+        "La tactique interarmes de reconnaissance"
+      ]
+    },
+    {
+      "q": "Quel test d'aptitude physique tout militaire passe-t-il chaque année ?",
+      "a": "Le CCPM : contrôle de la condition physique du militaire",
+      "d": [
+        "Le PSC1",
+        "Le test Cooper",
+        "Le CICM",
+        "L'examen médical d'aptitude"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'un GV ?",
+      "a": "Un grenadier voltigeur",
+      "d": [
+        "Un groupe de véhicules",
+        "Un garde de la voie",
+        "Un génie de la voirie",
+        "Un guetteur de vigie"
+      ]
+    },
+    {
+      "q": "Quel véhicule est utilisé par les forces spéciales ?",
+      "a": "Le véhicule d'opérations spéciales pour la patrouille (VOSPAT)",
+      "d": [
+        "Le VBL",
+        "Le VAB",
+        "Le Griffon",
+        "La P4"
+      ]
+    },
+    {
+      "q": "Combien d'armes compte l'armée de Terre ?",
+      "a": "8",
+      "d": [
+        "6",
+        "10",
+        "12",
+        "4"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'un AT4CS ?",
+      "a": "Un lance-roquettes antichar",
+      "d": [
+        "Un missile sol-air",
+        "Un fusil de précision",
+        "Un drone de reconnaissance",
+        "Une grenade à fragmentation"
+      ]
+    },
+    {
+      "q": "Que signifie l'acronyme TAP ?",
+      "a": "Troupes aéroportées",
+      "d": [
+        "Tir d'appui parachutiste",
+        "Technique d'assaut parachutiste",
+        "Transport aérien personnel",
+        "Transmissions aéroportées"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'ALAT ?",
+      "a": "L'aviation légère de l'armée de Terre",
+      "d": [
+        "L'armée légère d'appui tactique",
+        "L'aviation logistique de l'armée de Terre",
+        "L'aéronautique légère de l'armée de l'air",
+        "L'appui logistique aéroterrestre"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que la FGI ?",
+      "a": "La formation générale initiale",
+      "d": [
+        "La formation au grade d'instructeur",
+        "La formation générale interarmes",
+        "La filière de gestion individuelle",
+        "La formation au génie et à l'infanterie"
+      ]
+    },
+    {
+      "q": "Quelle est la première règle du code d'honneur du soldat, modifié en 2020 ?",
+      "a": "Soldat français, je m'engage à servir mon pays",
+      "d": [
+        "Je suis volontaire et discipliné",
+        "J'obéis aux ordres dans le respect des lois",
+        "Je combats pour la liberté",
+        "Je suis fier d'appartenir à l'armée"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'École militaire préparatoire technique de l'armée de Terre ?",
+      "a": "Une école de formation de futurs sous-officiers techniciens et spécialistes",
+      "d": [
+        "Une école d'officiers",
+        "Une école d'ingénieurs civils",
+        "Un centre de formation initiale du rang",
+        "Une école de pilotes"
+      ]
+    },
+    {
+      "q": "Quel est le pourcentage de sous-officiers issus des militaires du rang ?",
+      "a": "58 %",
+      "d": [
+        "30 %",
+        "45 %",
+        "70 %",
+        "25 %"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le CNEC ?",
+      "a": "Le Centre national d'entraînement commando",
+      "d": [
+        "Le Centre national d'études du combat",
+        "Le Commandement national de l'entraînement",
+        "Le Centre nautique d'entraînement commando",
+        "La Cellule nationale d'évaluation des compétences"
+      ]
+    },
+    {
+      "q": "De combien de personnes est composé l'équipage d'un char Leclerc ?",
+      "a": "3 personnes",
+      "d": [
+        "4 personnes",
+        "2 personnes",
+        "5 personnes",
+        "6 personnes"
+      ]
+    },
+    {
+      "q": "Quelle est la devise de l'École nationale des sous-officiers d'active ?",
+      "a": "S'élever par l'effort",
+      "d": [
+        "Servir avec honneur",
+        "L'audace de servir",
+        "S'instruire pour vaincre",
+        "Le devoir avant tout"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le CAESAR ?",
+      "a": "Un camion équipé d'un système d'artillerie",
+      "d": [
+        "Un canon automoteur équipé d'un système anti-radar",
+        "Un camion électronique avec système d'artillerie",
+        "Un camion aéroporté équipé d'un système anti-raid",
+        "Un char équipé d'un système autonome de riposte"
+      ]
+    },
+    {
+      "q": "Quelle arme de l'armée de Terre a pour devise « L'arme qui unit les armes » ?",
+      "a": "Les Transmissions",
+      "d": [
+        "Le Génie",
+        "L'Artillerie",
+        "Le Train",
+        "Le Matériel"
+      ]
+    },
+    {
+      "q": "Que signifie EVSO ?",
+      "a": "Engagé volontaire sous-officier",
+      "d": [
+        "Engagé volontaire du service ordinaire",
+        "École de volontariat des sous-officiers",
+        "Engagement volontaire en service opérationnel",
+        "Engagé volontaire spécialiste optionnel"
+      ]
+    },
+    {
+      "q": "Que signifie l'acronyme FELIN ?",
+      "a": "Fantassin à équipements et liaisons intégrés",
+      "d": [
+        "Force d'élite légère d'intervention nationale",
+        "Fusil électronique léger d'infanterie nouvelle",
+        "Fantassin équipé pour le combat de nuit",
+        "Formation élémentaire de l'infanterie"
+      ]
+    },
+    {
+      "q": "Combien existe-t-il de bataillons de chasseurs alpins (BCA) ?",
+      "a": "3 (le 7e, le 13e et le 27e BCA)",
+      "d": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le Tigre ?",
+      "a": "Un hélicoptère franco-allemand d'attaque, capable de faire un looping",
+      "d": [
+        "Un char d'assaut",
+        "Un avion de chasse",
+        "Un drone armé",
+        "Un véhicule blindé de reconnaissance"
+      ]
+    },
+    {
+      "q": "Quel est le nom du programme d'innovation et de rénovation des matériels de l'armée de Terre ?",
+      "a": "Scorpion",
+      "d": [
+        "FELIN",
+        "Leclerc",
+        "Sentinelle",
+        "Vulcain"
+      ]
+    },
+    {
+      "q": "Quel nom est donné au type de coiffe porté par les troupes de montagne ?",
+      "a": "La tarte",
+      "d": [
+        "Le béret",
+        "Le calot",
+        "La tartine",
+        "La galette"
+      ]
+    },
+    {
+      "q": "Quelle est la devise de l'École militaire des aspirants de Coëtquidan (EMAC), créée en 2021 ?",
+      "a": "L'audace de servir",
+      "d": [
+        "S'élever par l'effort",
+        "Ils s'instruisent pour vaincre",
+        "Servir sans faillir",
+        "Le courage et l'honneur"
+      ]
+    },
+    {
+      "q": "Combien y a-t-il de militaires d'active dans l'armée de Terre ?",
+      "a": "Environ 111 000",
+      "d": [
+        "Environ 144 000",
+        "Environ 77 000",
+        "Environ 200 000",
+        "Environ 90 000"
+      ]
+    },
+    {
+      "q": "Le parcours d'obstacles : quelle en est la distance et combien d'obstacles comporte-t-il ?",
+      "a": "500 mètres et 20 obstacles",
+      "d": [
+        "1000 mètres et 15 obstacles",
+        "500 mètres et 10 obstacles",
+        "800 mètres et 25 obstacles",
+        "400 mètres et 20 obstacles"
+      ]
+    },
+    {
+      "q": "Quelle est la différence entre un canon et un mortier ?",
+      "a": "Le canon effectue un tir tendu, le mortier un tir courbe",
+      "d": [
+        "Le canon est tracté, le mortier automoteur",
+        "Le mortier tire toujours plus loin que le canon",
+        "Le canon tire des roquettes, le mortier des obus",
+        "Aucune, ce sont des synonymes"
+      ]
+    },
+    {
+      "q": "Combien y a-t-il de personnels militaires dans l'armée de Terre ?",
+      "a": "Environ 144 000",
+      "d": [
+        "Environ 111 000",
+        "Environ 100 000",
+        "Environ 200 000",
+        "Environ 120 000"
+      ]
+    },
+    {
+      "q": "Quelle est la portée du canon de l'AUF1 ?",
+      "a": "24 km",
+      "d": [
+        "18 km",
+        "30 km",
+        "12 km",
+        "40 km"
+      ]
+    },
+    {
+      "q": "Quelle est la cadence de tir d'un CAESAR ?",
+      "a": "6 coups par minute",
+      "d": [
+        "3 coups par minute",
+        "10 coups par minute",
+        "12 coups par minute",
+        "1 coup par minute"
+      ]
+    },
+    {
+      "q": "Quelle brigade est appuyée par le 93e régiment d'artillerie de montagne ?",
+      "a": "La 27e brigade d'infanterie de montagne",
+      "d": [
+        "La 11e brigade parachutiste",
+        "La 7e brigade blindée",
+        "La 2e brigade blindée",
+        "La 9e brigade d'infanterie de marine"
+      ]
+    },
+    {
+      "q": "Quelle est la date de la fête de l'artillerie ?",
+      "a": "4 décembre (Sainte-Barbe)",
+      "d": [
+        "22 septembre",
+        "14 juillet",
+        "8 mai",
+        "1er décembre"
+      ]
+    },
+    {
+      "q": "Quelle est la couleur de l'artillerie ?",
+      "a": "Rouge (écarlate)",
+      "d": [
+        "Jaune",
+        "Bleu",
+        "Vert",
+        "Noir"
+      ]
+    },
+    {
+      "q": "Quel est le surnom de l'arme de l'infanterie ?",
+      "a": "La Reine des batailles",
+      "d": [
+        "La Reine des combats",
+        "La Première des armes",
+        "La Grande Muette",
+        "La Reine de la guerre"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que la topographie ?",
+      "a": "La technique de représentation sur un plan des formes du terrain et de ses détails naturels ou artificiels",
+      "d": [
+        "L'étude des cartes anciennes",
+        "La science des reliefs sous-marins",
+        "La mesure des distances par GPS",
+        "L'art de camoufler le terrain"
+      ]
+    },
+    {
+      "q": "En quelle année a été composée La Marseillaise ?",
+      "a": "1792",
+      "d": [
+        "1789",
+        "1804",
+        "1830",
+        "1870"
+      ]
+    },
+    {
+      "q": "Où est situé le siège de l'OTAN ?",
+      "a": "Bruxelles, en Belgique",
+      "d": [
+        "Washington, aux États-Unis",
+        "Genève, en Suisse",
+        "Paris, en France",
+        "Strasbourg, en France"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le PSC1 ?",
+      "a": "La prévention et le secours civiques de niveau 1",
+      "d": [
+        "La préparation sportive de combat niveau 1",
+        "Le permis de service civique 1",
+        "Les premiers soins du combattant 1",
+        "La protection et la sauvegarde civile 1"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'une section d'aide à l'engagement débarqué (SAED) ?",
+      "a": "Une unité commando présente dans chaque régiment d'infanterie",
+      "d": [
+        "Une section d'artillerie embarquée",
+        "Un détachement du génie",
+        "Une école d'aguerrissement",
+        "Un service administratif"
+      ]
+    },
+    {
+      "q": "Quel est le calibre du canon d'un VBCI ?",
+      "a": "25 mm",
+      "d": [
+        "12,7 mm",
+        "30 mm",
+        "20 mm",
+        "40 mm"
+      ]
+    },
+    {
+      "q": "À quelle arme de l'armée de Terre sont rattachées les formations militaires de la Sécurité civile (UIISC) ?",
+      "a": "Le Génie",
+      "d": [
+        "L'Infanterie",
+        "Le Train",
+        "Le Matériel",
+        "L'Artillerie"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'ISTC ?",
+      "a": "L'instruction sur le tir au combat",
+      "d": [
+        "L'institut supérieur des techniques de combat",
+        "L'inspection des stocks et du transport",
+        "L'instruction sur la survie en combat",
+        "L'instruction au secours tactique"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le C4 ?",
+      "a": "Le combat au corps à corps adapté au combat de haute intensité",
+      "d": [
+        "Un explosif plastique",
+        "Un système de commandement",
+        "Le combat en quatre phases",
+        "Une ration de combat"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'EMHM ?",
+      "a": "L'École militaire de haute montagne",
+      "d": [
+        "L'état-major de haute montagne",
+        "L'équipe militaire de haute montagne",
+        "L'école des moniteurs de haute montagne",
+        "L'échelon mobile de haute montagne"
+      ]
+    },
+    {
+      "q": "Que signifie OPINT ?",
+      "a": "Opération intérieure",
+      "d": [
+        "Opération internationale",
+        "Opération d'interception",
+        "Opération interarmées",
+        "Opération d'intervention"
+      ]
+    },
+    {
+      "q": "Que signifie OPEX ?",
+      "a": "Opération extérieure",
+      "d": [
+        "Opération expérimentale",
+        "Opération exceptionnelle",
+        "Opération d'extraction",
+        "Opération expéditionnaire"
+      ]
+    },
+    {
+      "q": "Quel pistolet semi-automatique a remplacé le PAMAC et le PAMAS dans les trois armées ?",
+      "a": "Le Glock 17",
+      "d": [
+        "Le FAMAS",
+        "Le HK416",
+        "Le PA MAS G1",
+        "Le Beretta 92"
+      ]
+    },
+    {
+      "q": "Avec 70 % des hélicoptères en service, quelle est la composante qui en possède le plus ?",
+      "a": "L'armée de Terre",
+      "d": [
+        "L'armée de l'air",
+        "La Marine nationale",
+        "La gendarmerie",
+        "La sécurité civile"
+      ]
+    },
+    {
+      "q": "Où a été signé l'Armistice du 11 novembre 1918 ?",
+      "a": "Dans la forêt de Compiègne (à Rethondes)",
+      "d": [
+        "À Versailles",
+        "À Reims",
+        "À Verdun",
+        "À Paris"
+      ]
+    },
+    {
+      "q": "Qu'appelle-t-on un frère d'armes ?",
+      "a": "Le lien fort tissé entre les membres d'une unité au combat",
+      "d": [
+        "Un membre de la même famille engagé",
+        "Un soldat allié étranger",
+        "Un ancien combattant",
+        "Un parrain de promotion"
+      ]
+    },
+    {
+      "q": "Laquelle de ces armes est une arme de poing ?",
+      "a": "Le Glock 17",
+      "d": [
+        "Le FAMAS",
+        "Le HK416",
+        "La Minimi",
+        "La FN MAG"
+      ]
+    },
+    {
+      "q": "Combien de présidents la Ve République a-t-elle connus de sa création à aujourd'hui ?",
+      "a": "8",
+      "d": [
+        "7",
+        "9",
+        "5",
+        "10"
+      ]
+    },
+    {
+      "q": "Quelle fleur symbolise le souvenir français de la guerre de 14-18 ?",
+      "a": "Le bleuet",
+      "d": [
+        "Le coquelicot",
+        "La marguerite",
+        "L'œillet rouge",
+        "Le myosotis"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'un as ?",
+      "a": "Un pilote qui s'est distingué au combat en abattant de nombreux aéronefs ennemis",
+      "d": [
+        "Un général d'aviation",
+        "Le meilleur tireur d'une unité",
+        "Un pilote d'essai",
+        "Un chef de patrouille"
+      ]
+    },
+    {
+      "q": "Quelle entité a le statut d'organisme civil et fait partie de l'administration centrale du ministère des Armées ?",
+      "a": "La Direction générale de l'armement (DGA)",
+      "d": [
+        "L'État-major des armées",
+        "Le COS",
+        "La DRM",
+        "La DGSE"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'opération SENTINELLE ?",
+      "a": "Une opération militaire française pour faire face à la menace terroriste et protéger les points sensibles du territoire national",
+      "d": [
+        "Une opération extérieure au Sahel",
+        "Une opération de secours après catastrophe",
+        "Une opération de surveillance maritime",
+        "Une opération de cyberdéfense"
+      ]
+    },
+    {
+      "q": "Qu'appelle-t-on l'« École de guerre » ?",
+      "a": "L'école des officiers supérieurs",
+      "d": [
+        "L'école des sous-officiers",
+        "L'école de Saint-Cyr",
+        "L'école des généraux uniquement",
+        "Une école d'élèves officiers de réserve"
+      ]
+    },
+    {
+      "q": "Quel est le nom de la marche officielle de la Légion étrangère ?",
+      "a": "Le Boudin",
+      "d": [
+        "La Marseillaise",
+        "Le Chant de l'oignon",
+        "Képi blanc",
+        "La Galette"
+      ]
+    },
+    {
+      "q": "Dans quelle ville se trouve l'hexagone Balard ?",
+      "a": "Paris",
+      "d": [
+        "Lyon",
+        "Brest",
+        "Toulon",
+        "Versailles"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que la FTS ?",
+      "a": "La formation technique de spécialité",
+      "d": [
+        "La formation tactique du soldat",
+        "La filière technique supérieure",
+        "La formation au tir et à la survie",
+        "La formation théorique et sportive"
+      ]
+    },
+    {
+      "q": "Que signifie l'acronyme TNG ?",
+      "a": "Treillis nouvelle génération",
+      "d": [
+        "Tenue de nuit du génie",
+        "Transmission numérique au sol",
+        "Technique de nuit guidée",
+        "Tireur de nuit groupé"
+      ]
+    },
+    {
+      "q": "Parmi ces centres d'entraînement, lequel est géré par la Légion étrangère ?",
+      "a": "Le Centre d'entraînement en forêt équatoriale (CEFE), en Guyane",
+      "d": [
+        "Le CNEC de Mont-Louis",
+        "Le CEITO de Canjuers",
+        "L'EMHM de Chamonix",
+        "Le camp de La Courtine"
+      ]
+    },
+    {
+      "q": "Que signifie « EVASAN » ?",
+      "a": "Évacuation sanitaire",
+      "d": [
+        "Évaluation sanitaire",
+        "Évacuation aéroportée des sanitaires",
+        "Espace de vie sanitaire",
+        "Évacuation des blessés par voie navale"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que Camerone ?",
+      "a": "La fête de la Légion étrangère",
+      "d": [
+        "Une bataille de la Première Guerre mondiale",
+        "Un camp d'entraînement",
+        "La fête de l'infanterie",
+        "Une opération en Afrique"
+      ]
+    },
+    {
+      "q": "Que signifie CFIM ?",
+      "a": "Centre de formation initiale des militaires du rang",
+      "d": [
+        "Centre de formation interarmes des militaires",
+        "Cellule de formation et d'instruction militaire",
+        "Centre fédéral d'instruction militaire",
+        "Commandement de la formation initiale"
+      ]
+    },
+    {
+      "q": "À quel type d'armement correspondent les noms Javelin et Milan ?",
+      "a": "Des missiles antichars",
+      "d": [
+        "Des missiles sol-air",
+        "Des fusils de précision",
+        "Des drones de combat",
+        "Des lance-flammes"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que la Grande Armée ?",
+      "a": "L'appellation de l'armée impériale de Napoléon Ier de 1804 à 1815",
+      "d": [
+        "L'armée de la Révolution",
+        "L'armée de Louis XIV",
+        "L'armée française de 1914",
+        "La Garde nationale"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le VBCI ?",
+      "a": "Un véhicule blindé de combat d'infanterie",
+      "d": [
+        "Une voiture blindée pour commandant d'infanterie",
+        "Un véhicule basé sur combustion interne",
+        "Un vaisseau basé sur le combat interactif",
+        "Un véhicule blindé de communication interarmes"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le VAB ?",
+      "a": "Le véhicule de l'avant blindé",
+      "d": [
+        "Une voiture d'assistance blindée",
+        "Un vaisseau de l'amiral blindé",
+        "Un véhicule d'artillerie blindé",
+        "Un véhicule autonome blindé"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'ERC-90 ?",
+      "a": "Un engin de reconnaissance à canon de 90 mm",
+      "d": [
+        "Un équilibre rapide à calibre de 90",
+        "Un exercice de reconnaissance commun en 1990",
+        "L'école de reconnaissance des chasseurs de Belfort (90)",
+        "Un engin radio-commandé de 90 cm"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le HK416F ?",
+      "a": "Le nouveau fusil d'assaut remplaçant le FAMAS",
+      "d": [
+        "Un exercice militaire combiné avec Hong Kong",
+        "Un pistolet remplaçant le Glock 17",
+        "Un mortier de 120 mm remplaçant le Mle F1",
+        "Une mitrailleuse lourde de calibre 16 mm"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que la Minimi ?",
+      "a": "Une mini-mitrailleuse légère d'une cadence de 700 coups/min",
+      "d": [
+        "La taille minimale pour rejoindre l'armée",
+        "Un matériel de transmission miniature",
+        "Un drone de protection d'une portée de 600 m",
+        "Un mini-mortier d'infanterie"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le SCAR-H PR ?",
+      "a": "Un fusil de précision semi-automatique de calibre 7.62 mm",
+      "d": [
+        "Un bandage cicatrisant haute technologie",
+        "Une grenade haute précision remplaçant le modèle F1",
+        "Un mortier de précision à obus à fragmentation",
+        "Un casque de protection renforcé"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'Hécate II ?",
+      "a": "Un fusil de précision de longue distance",
+      "d": [
+        "Un hélicoptère remplaçant le Puma",
+        "Un sous-marin nucléaire lanceur d'engins",
+        "Un véhicule blindé des forces spéciales",
+        "Un missile de croisière"
+      ]
+    },
+    {
+      "q": "Qui était Philippe Leclerc de Hauteclocque ?",
+      "a": "Un militaire français, commandant la 2e division blindée, libérateur de Paris",
+      "d": [
+        "Le chef de la France libre",
+        "Un maréchal de Napoléon",
+        "Le commandant de la 1ère armée en 1944",
+        "Un aviateur de la Première Guerre mondiale"
+      ]
+    },
+    {
+      "q": "Qui était Ferdinand Foch ?",
+      "a": "Un militaire français, commandant en chef des forces alliées lors de la Première Guerre mondiale",
+      "d": [
+        "Le président de la République pendant la guerre",
+        "Le chef de la France libre",
+        "Un maréchal sous Napoléon",
+        "Le ministre de la Guerre en 1940"
+      ]
+    },
+    {
+      "q": "Quel est le synonyme militaire d'« escouade » ?",
+      "a": "Le groupe de combat",
+      "d": [
+        "La section",
+        "Le peloton",
+        "La compagnie",
+        "Le régiment"
+      ]
+    },
+    {
+      "q": "De quand date la première Convention de Genève sur le sort du soldat blessé ?",
+      "a": "1864",
+      "d": [
+        "1907",
+        "1949",
+        "1899",
+        "1929"
+      ]
+    },
+    {
+      "q": "Que sont les forces de souveraineté ?",
+      "a": "Des forces stationnées dans les départements et collectivités français d'outre-mer",
+      "d": [
+        "Des forces chez les alliés de la France",
+        "Les forces nucléaires",
+        "La réserve opérationnelle",
+        "Les forces de l'OTAN"
+      ]
+    },
+    {
+      "q": "Quelle est la portée du canon du VBCI ?",
+      "a": "2000 m",
+      "d": [
+        "1000 m",
+        "3000 m",
+        "1500 m",
+        "4000 m"
+      ]
+    },
+    {
+      "q": "En quelle année a eu lieu la bataille de Camerone, commémorée chaque 30 avril par les légionnaires ?",
+      "a": "1863",
+      "d": [
+        "1854",
+        "1870",
+        "1883",
+        "1914"
+      ]
+    },
+    {
+      "q": "Quelle est la durée d'une FTS ?",
+      "a": "8 semaines",
+      "d": [
+        "4 semaines",
+        "12 semaines",
+        "21 jours",
+        "6 mois"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'un talweg ?",
+      "a": "En topographie, la ligne joignant les points les plus bas d'une vallée",
+      "d": [
+        "La ligne de crête",
+        "Un point culminant",
+        "Un cours d'eau souterrain",
+        "Une courbe de niveau"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le pas de gymnastique ?",
+      "a": "Un déplacement à cadence rapide d'une formation militaire",
+      "d": [
+        "Une séance de sport matinale",
+        "Un exercice d'échauffement",
+        "Une marche au pas cadencé lent",
+        "Un parcours d'obstacles"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le commissariat des armées ?",
+      "a": "Le service assurant le soutien commun et l'administration générale des armées",
+      "d": [
+        "La police militaire",
+        "Le service de renseignement",
+        "Le commandement des opérations",
+        "Le service de santé des armées"
+      ]
+    },
+    {
+      "q": "Quel est le pourcentage de femmes dans l'armée française en 2021, toutes armées confondues ?",
+      "a": "16 %",
+      "d": [
+        "10 %",
+        "25 %",
+        "30 %",
+        "20 %"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'Armée des champions ?",
+      "a": "L'entité qui rassemble les sportifs de haut niveau engagés dans les armées",
+      "d": [
+        "Une compétition interarmées",
+        "Une unité d'élite de combat",
+        "Un club sportif de la Défense",
+        "Les médaillés des guerres"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que la fourragère ?",
+      "a": "Une corde tressée portée à l'épaule gauche, décoration collective récompensant des faits de guerre",
+      "d": [
+        "Un galon de grade",
+        "Une médaille individuelle",
+        "Un insigne de spécialité",
+        "Le cordon d'aiguillette des officiers"
+      ]
+    },
+    {
+      "q": "Qui est le chef des armées ?",
+      "a": "Le président de la République",
+      "d": [
+        "Le ministre des Armées",
+        "Le chef d'état-major des armées",
+        "Le Premier ministre",
+        "Le général le plus gradé"
+      ]
+    },
+    {
+      "q": "Qu'appelle-t-on la spécialité « SIC » ?",
+      "a": "Système d'information et de communication",
+      "d": [
+        "Service interarmées du combat",
+        "Section d'intervention et de contrôle",
+        "Soutien informatique des casernes",
+        "Système intégré de commandement"
+      ]
+    },
+    {
+      "q": "Qui était Georges Clemenceau ?",
+      "a": "Un homme d'État français, président du Conseil de 1917 à 1920",
+      "d": [
+        "Un général de la Première Guerre mondiale",
+        "Le président de la République en 1918",
+        "Un maréchal de France",
+        "Le ministre de la Guerre de De Gaulle"
+      ]
+    },
+    {
+      "q": "Quel a été le budget du ministère des Armées pour l'année 2025 ?",
+      "a": "50,5 milliards d'euros",
+      "d": [
+        "32 milliards d'euros",
+        "40 milliards d'euros",
+        "60 milliards d'euros",
+        "45 milliards d'euros"
+      ]
+    },
+    {
+      "q": "En tant que militaire, quel numéro devez-vous connaître par cœur ?",
+      "a": "Mon numéro de matricule",
+      "d": [
+        "Mon numéro de régiment",
+        "Le numéro d'urgence militaire",
+        "Mon numéro de sécurité sociale",
+        "Le numéro de ma compagnie"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'Institution nationale des Invalides ?",
+      "a": "Un établissement spécialisé dans la prise en charge des blessés de guerre et du grand handicap, lieu de mémoire",
+      "d": [
+        "Un simple musée militaire",
+        "Le tombeau de Napoléon uniquement",
+        "Une maison de retraite pour officiers",
+        "Un hôpital militaire de campagne"
+      ]
+    },
+    {
+      "q": "Lequel de ces avions est encore en service dans l'armée française ?",
+      "a": "Le Mirage 2000",
+      "d": [
+        "Le Mirage III",
+        "Le Mirage F1",
+        "Le Mirage IV",
+        "Le Super-Étendard"
+      ]
+    },
+    {
+      "q": "Qu'appelle-t-on la permanence opérationnelle ?",
+      "a": "Les avions de chasse qui décollent sur alerte pour la protection du territoire",
+      "d": [
+        "La garde permanente des casernes",
+        "La présence continue en OPEX",
+        "La surveillance des frontières terrestres",
+        "La permanence du commandement"
+      ]
+    },
+    {
+      "q": "Quel est le nom de l'école qui forme les officiers de carrière de l'armée de Terre ?",
+      "a": "L'Académie militaire de Saint-Cyr Coëtquidan (AMSCC)",
+      "d": [
+        "L'ENSOA",
+        "L'École polytechnique",
+        "L'EMIA seule",
+        "L'École de guerre"
+      ]
+    },
+    {
+      "q": "Quel est le nom du repas pris par les militaires sur le terrain ?",
+      "a": "La ration de combat",
+      "d": [
+        "Le rata",
+        "La gamelle",
+        "Le vivre de réserve",
+        "La popote"
+      ]
+    },
+    {
+      "q": "À quoi correspond un insigne représentant un rameau d'olivier dans l'armée ?",
+      "a": "À un aumônier militaire",
+      "d": [
+        "À un médecin militaire",
+        "À un officier de réserve",
+        "À un vétéran",
+        "À un interprète"
+      ]
+    },
+    {
+      "q": "Lequel de ces chars de combat est encore en service dans l'armée française ?",
+      "a": "Le Leclerc",
+      "d": [
+        "L'AMX-30",
+        "L'AMX-13",
+        "Le char B1",
+        "Le Sherman"
+      ]
+    },
+    {
+      "q": "Quel est le nom du nouveau fusil d'assaut de l'armée de Terre ?",
+      "a": "Le HK416",
+      "d": [
+        "Le FAMAS",
+        "Le SCAR",
+        "La Minimi",
+        "Le Glock 17"
+      ]
+    },
+    {
+      "q": "Quel est le nom du seul char d'assaut lourd de l'armée française ?",
+      "a": "Le Leclerc",
+      "d": [
+        "L'AMX-30",
+        "Le Griffon",
+        "Le Jaguar",
+        "L'AMX-10 RC"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que l'ENSOA ?",
+      "a": "L'École nationale des sous-officiers d'active",
+      "d": [
+        "L'École nationale supérieure des officiers d'active",
+        "L'Établissement national de soutien aux armées",
+        "L'École navale des sous-officiers",
+        "L'École nationale des spécialistes de l'armée"
+      ]
+    },
+    {
+      "q": "Que signifie EMIA ?",
+      "a": "École militaire interarmes",
+      "d": [
+        "État-major interarmées",
+        "École militaire d'infanterie et d'artillerie",
+        "École des moniteurs interarmes",
+        "Échelon mobile d'intervention armée"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'un SGTIA ?",
+      "a": "Un sous-groupement tactique interarmes",
+      "d": [
+        "Une section du génie et des transmissions",
+        "Le soutien général et technique interarmées",
+        "Un service de gestion des troupes",
+        "Un sous-groupe territorial d'intervention"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le Griffon ?",
+      "a": "Le véhicule blindé multi-rôles entré en service en 2019",
+      "d": [
+        "Un hélicoptère d'attaque",
+        "Un char léger",
+        "Un drone de reconnaissance",
+        "Un missile antichar"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'un RPIMa ?",
+      "a": "Un régiment parachutiste d'infanterie de marine",
+      "d": [
+        "Un régiment professionnel d'infanterie de montagne",
+        "Une réserve parachutiste interarmes",
+        "Un régiment para d'intervention maritime",
+        "Un régiment de protection des installations"
+      ]
+    },
+    {
+      "q": "Quel est le niveau minimal d'études pour devenir sous-officier direct ?",
+      "a": "Le baccalauréat",
+      "d": [
+        "Le brevet des collèges",
+        "Le BTS",
+        "La licence",
+        "Le CAP"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le Black Hornet ?",
+      "a": "Un micro-drone de reconnaissance ressemblant à un hélicoptère",
+      "d": [
+        "Un fusil de précision",
+        "Un casque connecté",
+        "Une grenade de reconnaissance",
+        "Un robot démineur"
+      ]
+    },
+    {
+      "q": "Combien y a-t-il de divisions dans l'armée de Terre française ?",
+      "a": "2",
+      "d": [
+        "3",
+        "4",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "q": "Quelle est la masse du fusil d'assaut HK416F-S avec un magasin vide ?",
+      "a": "Environ 4 kg",
+      "d": [
+        "Environ 3 kg",
+        "Environ 5 kg",
+        "Environ 2,5 kg",
+        "Environ 6 kg"
+      ]
+    },
+    {
+      "q": "Maréchal n'est pas un grade, il s'agit de…",
+      "a": "Une distinction",
+      "d": [
+        "Un commandement",
+        "Une fonction",
+        "Une médaille",
+        "Un titre de noblesse"
+      ]
+    },
+    {
+      "q": "Que signifient les couleurs du drapeau français ?",
+      "a": "Bleu et rouge : couleurs de Paris ; blanc : couleur de la royauté",
+      "d": [
+        "Bleu : liberté, blanc : égalité, rouge : fraternité",
+        "Les couleurs de la Révolution uniquement",
+        "Bleu : la mer, blanc : la paix, rouge : le sang versé",
+        "Les couleurs de la maison de Bourbon"
+      ]
+    },
+    {
+      "q": "Quelle est la date de la fête nationale française ?",
+      "a": "14 juillet",
+      "d": [
+        "8 mai",
+        "11 novembre",
+        "1er mai",
+        "4 août"
+      ]
+    },
+    {
+      "q": "Quelles sont les dates de la guerre d'Algérie ?",
+      "a": "1954 - 1962",
+      "d": [
+        "1939 - 1945",
+        "1946 - 1954",
+        "1958 - 1962",
+        "1954 - 1958"
+      ]
+    },
+    {
+      "q": "Quelle composante fait partie de la Garde nationale ?",
+      "a": "La réserve militaire",
+      "d": [
+        "La gendarmerie mobile",
+        "La Légion étrangère",
+        "La police nationale",
+        "Les sapeurs-pompiers"
+      ]
+    },
+    {
+      "q": "En quelle année a eu lieu le premier essai nucléaire français ?",
+      "a": "1960",
+      "d": [
+        "1945",
+        "1952",
+        "1968",
+        "1974"
+      ]
+    },
+    {
+      "q": "Quelle est la date de création de l'OTAN ?",
+      "a": "1949",
+      "d": [
+        "1945",
+        "1955",
+        "1957",
+        "1991"
+      ]
+    },
+    {
+      "q": "Comment sont répartis les CFIM (Centres de formation initiale des militaires du rang) sur le territoire national ?",
+      "a": "Il en existe un par brigade",
+      "d": [
+        "Il en existe un par région militaire",
+        "Il en existe un seul, national",
+        "Il en existe un par régiment",
+        "Il en existe un par département"
+      ]
+    },
+    {
+      "q": "Que sont les brodequins de marche à jambières attenantes (BMJA) ?",
+      "a": "Le nom officiel des rangers",
+      "d": [
+        "Le nom officiel des chaussures de sport",
+        "Des protège-tibias de combat",
+        "Les bottes de cérémonie",
+        "Le nom des guêtres d'apparat"
+      ]
+    },
+    {
+      "q": "Quel est le calibre du canon monté sur les CAESAR ?",
+      "a": "155 mm",
+      "d": [
+        "105 mm",
+        "120 mm",
+        "90 mm",
+        "203 mm"
+      ]
+    },
+    {
+      "q": "Qui sont les marsouins ?",
+      "a": "Les soldats de l'infanterie de marine",
+      "d": [
+        "Les plongeurs de combat de la Marine",
+        "Les fusiliers marins",
+        "Les commandos marine",
+        "Les soldats des troupes de montagne"
+      ]
+    },
+    {
+      "q": "Comment s'adresse-t-on à un soldat de 2e classe ?",
+      "a": "En l'appelant par son nom",
+      "d": [
+        "En l'appelant « soldat »",
+        "En l'appelant « deuxième classe »",
+        "En l'appelant par son matricule",
+        "En l'appelant « mon soldat »"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que le CENZUB ?",
+      "a": "Le Centre d'entraînement aux actions en zone urbaine",
+      "d": [
+        "Le Centre national de zone urbaine de bataille",
+        "Le Centre d'entraînement des unités blindées",
+        "Le Commandement des zones urbaines de combat",
+        "Le Centre d'entraînement en zone d'urgence"
+      ]
+    },
+    {
+      "q": "Qu'est-ce que la FACQ ?",
+      "a": "La formation d'adaptation complémentaire qualifiante",
+      "d": [
+        "La formation accélérée au combat qualifiée",
+        "La filière d'accès aux corps de qualification",
+        "La formation des aspirants et cadres qualifiés",
+        "La formation administrative et comptable qualifiante"
+      ]
+    },
+    {
+      "q": "Parmi les spécialités suivantes, laquelle n'est pas une arme ?",
+      "a": "La Légion étrangère",
+      "d": [
+        "L'Infanterie",
+        "Le Génie",
+        "L'Artillerie",
+        "Les Transmissions"
+      ]
+    },
+    {
+      "q": "Quelle modification a connu le tricorne en 2021 ?",
+      "a": "Il comporte désormais les attributs d'arme et de grade",
+      "d": [
+        "Il a été remplacé par le képi",
+        "Il est devenu bleu",
+        "Il a été supprimé",
+        "Il est désormais porté aussi par les hommes"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'un EVAT ?",
+      "a": "Un engagé volontaire de l'armée de Terre",
+      "d": [
+        "Un engagé volontaire en activité technique",
+        "Un élève volontaire de l'armée de Terre",
+        "Un engagé volontaire aspirant technicien",
+        "Un école de volontaires de l'armée de Terre"
+      ]
+    },
+    {
+      "q": "Quel est le nom du véhicule ayant remplacé la VAB ?",
+      "a": "Le Griffon",
+      "d": [
+        "Le Jaguar",
+        "Le Serval",
+        "Le VBCI",
+        "Le VBMR léger"
+      ]
+    },
+    {
+      "q": "Que signifie l'acronyme LATTA ?",
+      "a": "Lutte antiaérienne toutes armes",
+      "d": [
+        "Liaison aérotactique des troupes alliées",
+        "Lutte antichar et tir d'appui",
+        "Logistique aéroterrestre toutes armes",
+        "Lutte antiterroriste de l'armée de Terre"
+      ]
+    },
+    {
+      "q": "Qu'est-ce qu'un bigor ?",
+      "a": "Un canonnier de l'artillerie de marine",
+      "d": [
+        "Un soldat de la Légion étrangère",
+        "Un fantassin de montagne",
+        "Un marin-pompier",
+        "Un parachutiste de marine"
+      ]
+    },
+    {
+      "q": "Quelle est la devise de l'arme du génie ?",
+      "a": "Parfois détruire, souvent construire, toujours servir",
+      "d": [
+        "Construire et combattre",
+        "Servir sans faillir",
+        "L'arme qui unit les armes",
+        "Bâtir pour la paix, détruire pour vaincre"
+      ]
+    },
+    {
+      "q": "Qui est le saint patron de l'artillerie ?",
+      "a": "Sainte Barbe",
+      "d": [
+        "Saint Maurice",
+        "Saint Michel",
+        "Saint Georges",
+        "Saint Éloi"
+      ]
+    },
+    {
+      "q": "Quelle est la portée du mortier du Griffon MEPAC ?",
+      "a": "13 km",
+      "d": [
+        "8 km",
+        "20 km",
+        "5 km",
+        "24 km"
+      ]
+    },
+    {
+      "q": "Quel industriel commercialise le système de drone tactique (SDT) Patroller ?",
+      "a": "Safran",
+      "d": [
+        "Thales",
+        "Dassault",
+        "Nexter",
+        "Airbus"
+      ]
+    },
+    {
+      "q": "Quelle est la portée du canon du CAESAR ?",
+      "a": "40 km",
+      "d": [
+        "24 km",
+        "30 km",
+        "50 km",
+        "15 km"
+      ]
+    },
+    {
+      "q": "Quel est le nom du radar de contrebatterie utilisé pour détecter les batteries de tir ennemies ?",
+      "a": "COBRA",
+      "d": [
+        "MURIN",
+        "GIRAFFE",
+        "MARTHA",
+        "RASIT"
+      ]
+    },
+    {
+      "q": "Outre Sainte Barbe, quel saint patron est fêté par les artilleurs de montagne ?",
+      "a": "Saint Bernard",
+      "d": [
+        "Saint Maurice",
+        "Saint Martin",
+        "Saint Georges",
+        "Saint Christophe"
+      ]
+    },
+    {
+      "q": "Quelle bataille est particulièrement célébrée par les artilleurs ?",
+      "a": "Wagram",
+      "d": [
+        "Austerlitz",
+        "Verdun",
+        "Valmy",
+        "Bir Hakeim"
+      ]
+    },
+    {
+      "q": "Où est situé le 93e régiment d'artillerie de montagne ?",
+      "a": "Varces",
+      "d": [
+        "Chambéry",
+        "Annecy",
+        "Gap",
+        "Grenoble"
+      ]
+    }
+  ]
+}

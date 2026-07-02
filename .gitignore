@@ -1,0 +1,15 @@
+# Données d'exécution : classement en direct (contient des pseudos de joueurs)
+scores.json
+scores.json.tmp
+
+# Outillage local (aperçu Claude Code)
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / divers
+Thumbs.db
+.DS_Store
+*.log
