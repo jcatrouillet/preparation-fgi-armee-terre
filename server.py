@@ -60,12 +60,14 @@ def sort_key(e):
 
 MAX_TOTAL = 50          # un quiz ne depasse jamais ce nombre de questions
 ALLOWED_TIMERS = (0, 3, 5, 10)
-ALLOWED_GAMES = ("grades", "generale", "militaire")
+ALLOWED_GAMES = ("grades", "generale", "militaire", "vehicules")
 
 
 def category(game):
-    # deux classements separes : "grades" et "culture" (generale + militaire)
-    return "grades" if game == "grades" else "culture"
+    # trois classements separes : "grades", "vehicules" et "culture" (generale + militaire)
+    if game in ("grades", "vehicules"):
+        return game
+    return "culture"
 
 
 def add_score(raw):

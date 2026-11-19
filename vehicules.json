@@ -1,0 +1,191 @@
+[
+ {
+  "name": "Char Leclerc",
+  "file": "char-leclerc.jpg",
+  "cat": "blinde",
+  "full": "Char de combat principal",
+  "author": "Staff Sgt. Kathleen Polanco (US Army)",
+  "license": "Domaine public",
+  "source": "https://commons.wikimedia.org/wiki/File:French_Leclerc_main_battle_tank_during_Strong_Europe_Tank_Challenge_exercise,_2017.jpg"
+ },
+ {
+  "name": "VBCI",
+  "file": "vbci.jpg",
+  "cat": "blinde",
+  "full": "Véhicule blindé de combat d'infanterie",
+  "author": "AlfvanBeem",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:VBCI,_(V%C3%A9hicule_Blind%C3%A9_de_Combat_de_l%27Infanterie),_French_army_licence_registration_%276094_0048%27,_OURCQ_1918_photo-1.JPG"
+ },
+ {
+  "name": "VAB",
+  "file": "vab.jpg",
+  "cat": "blinde",
+  "full": "Véhicule de l'avant blindé",
+  "author": "AlfvanBeem",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:V%C3%A9hicule_de_l%27Avant_Blind%C3%A9,_VAB_4x4,_army_licence_registration_6813_1188_photo-1.JPG"
+ },
+ {
+  "name": "Griffon",
+  "file": "griffon.jpg",
+  "cat": "blinde",
+  "full": "Véhicule blindé multi-rôles (VBMR)",
+  "author": "Robinsauveur",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:VBMR_Griffon_disposant_d%27un_nouveau_camouflage_(d%C3%A9fil%C3%A9_14_Juillet_2023).jpg"
+ },
+ {
+  "name": "Jaguar",
+  "file": "jaguar.jpg",
+  "cat": "blinde",
+  "full": "Engin blindé de reconnaissance et de combat (EBRC)",
+  "author": "Armée de Terre",
+  "license": "Licence Ouverte",
+  "source": "https://commons.wikimedia.org/wiki/File:EBRC_Jaguar_armoured_reconnaissance_vehicle.jpg"
+ },
+ {
+  "name": "Serval",
+  "file": "serval.jpg",
+  "cat": "blinde",
+  "full": "Véhicule blindé multi-rôles léger (VBMR-L)",
+  "author": "Kevin.B",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Arm%C3%A9e_de_terre_-_VBMR-L_Serval_(14_juillet_2023).jpg"
+ },
+ {
+  "name": "AMX-10 RC",
+  "file": "amx-10-rc.jpg",
+  "cat": "blinde",
+  "full": "Engin de reconnaissance à roues et canon de 105 mm",
+  "author": "davric",
+  "license": "Domaine public",
+  "source": "https://commons.wikimedia.org/wiki/File:AMX-10-RC.JPG"
+ },
+ {
+  "name": "ERC-90 Sagaie",
+  "file": "erc-90-sagaie.jpg",
+  "cat": "blinde",
+  "full": "Engin de reconnaissance à canon de 90 mm",
+  "author": "Jonile10",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:ERC-90_Sagaie.jpg"
+ },
+ {
+  "name": "VBL",
+  "file": "vbl.jpg",
+  "cat": "blinde",
+  "full": "Véhicule blindé léger",
+  "author": "AlfvanBeem",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Panhard_VBL_(V%C3%A8hicule_Blind%C3%A9_Leg%C3%A9r),_French_army_licence_registration_%276074_0049%27.JPG"
+ },
+ {
+  "name": "PVP",
+  "file": "pvp.jpg",
+  "cat": "blinde",
+  "full": "Petit véhicule protégé",
+  "author": "Gzen92",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:D%C3%A9fil%C3%A9_motoris%C3%A9_-_Petit_V%C3%A9hicule_Prot%C3%A9g%C3%A9_(Colmar).jpg"
+ },
+ {
+  "name": "EBG",
+  "file": "ebg.jpg",
+  "cat": "blinde",
+  "full": "Engin blindé du génie",
+  "author": "davric",
+  "license": "Domaine public",
+  "source": "https://commons.wikimedia.org/wiki/File:EBG-cote-gauche.JPG"
+ },
+ {
+  "name": "CAESAR",
+  "file": "caesar.jpg",
+  "cat": "artillerie",
+  "full": "Camion équipé d'un système d'artillerie (155 mm)",
+  "author": "Selvejp",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:CAESAR_(camion_%C3%A9quip%C3%A9_d%27un_syst%C3%A8me_d%27artillerie)_1.jpg"
+ },
+ {
+  "name": "AUF1",
+  "file": "auf1.jpg",
+  "cat": "artillerie",
+  "full": "Automoteur d'artillerie de 155 mm",
+  "author": "SGT Brian Gavin (US Army)",
+  "license": "Domaine public",
+  "source": "https://commons.wikimedia.org/wiki/File:AMX_AuF1,_40e_r%C3%A9giment_d%27artillerie,_Implementation_Force,_1996.jpg"
+ },
+ {
+  "name": "Tigre",
+  "file": "tigre.jpg",
+  "cat": "helico",
+  "full": "Hélicoptère d'attaque",
+  "author": "Clemens Vasters",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Airbus_Helicopter_Tiger_(35056042490).jpg"
+ },
+ {
+  "name": "NH90 Caïman",
+  "file": "nh90-caiman.jpg",
+  "cat": "helico",
+  "full": "Hélicoptère de manœuvre NH90 Caïman",
+  "author": "Eric Salard",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:CAIMAN_ARMEE_DE_TERRE_14_JUILLET_2018_(28535973447).jpg"
+ },
+ {
+  "name": "Puma",
+  "file": "puma.jpg",
+  "cat": "helico",
+  "full": "Hélicoptère de transport SA 330 Puma",
+  "author": "dxme",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:A%C3%A9rospatiale_SA_330_Puma_-_arm%C3%A9e_de_Terre_(19600007073).jpg"
+ },
+ {
+  "name": "Gazelle",
+  "file": "gazelle.jpg",
+  "cat": "helico",
+  "full": "Hélicoptère léger SA 342 Gazelle",
+  "author": "Andrew Thomas",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:3856_AEH_Aerospatiale_SA-342M_Gazelle_(cn_1856)_Armee_de_Terre._(6924949599).jpg"
+ },
+ {
+  "name": "Cougar",
+  "file": "cougar.jpg",
+  "cat": "helico",
+  "full": "Hélicoptère de transport AS 532 Cougar",
+  "author": "Simon Butler",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:FAIRFORD_23_JULY_1995_FRENCH_ARMY_EUROCOPTER_AS532UL_COUGAR_2282_AIS_(24021093730).jpg"
+ },
+ {
+  "name": "TRM 2000",
+  "file": "trm-2000.jpg",
+  "cat": "logistique",
+  "full": "Camion tactique Renault TRM 2000",
+  "author": "Auteur inconnu",
+  "license": "Domaine public",
+  "source": "https://commons.wikimedia.org/wiki/File:French_Renault_TRM_2000_truck.JPEG"
+ },
+ {
+  "name": "TRM 10000",
+  "file": "trm-10000.jpg",
+  "cat": "logistique",
+  "full": "Camion tactique lourd Renault TRM 10000",
+  "author": "AlfvanBeem",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Renault_TRM_10_000_CLD_photo-1.JPG"
+ },
+ {
+  "name": "Peugeot P4",
+  "file": "peugeot-p4.jpg",
+  "cat": "logistique",
+  "full": "Véhicule léger tactique Peugeot P4",
+  "author": "Kevin.B",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Peugeot_P4,_nouvelles_couleurs_Arm%C3%A9e_de_Terre_(14_juillet_2021)_(1).jpg"
+ }
+]

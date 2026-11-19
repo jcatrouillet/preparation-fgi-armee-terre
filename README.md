@@ -5,6 +5,7 @@ Jeu web pour apprendre et réviser :
 - **🎖️ Grades** — reconnaître les galons de l'armée de Terre française (officiers généraux, officiers, sous-officiers, militaires du rang, et un jeu « Chasseurs »).
 - **📚 Culture générale** — QCM de culture générale française (histoire, géographie, institutions, fleuves…).
 - **⚔️ Culture militaire** — QCM de culture militaire.
+- **🚙 Véhicules** — reconnaître les véhicules de l'armée de Terre (blindés, artillerie, hélicoptères, camions…) à partir d'une photo.
 
 En ligne : **http://grade.catrouillet.net**
 
@@ -13,7 +14,8 @@ En ligne : **http://grade.catrouillet.net**
 - **Grades** : quiz Galon → Nom, Nom → Galon ou mixte, plus un mode **apprentissage** (fiches cliquables en plein écran).
 - **Culture** : QCM à 5 choix.
 - **Chrono** optionnel (10 / 5 / 3 s par question).
-- **Meilleurs scores** : deux classements Top 20 séparés (**Grades** et **Culture**), stockés côté serveur.
+- **Véhicules** : photo → nom parmi 5 choix (mauvaises réponses prises en priorité dans la même catégorie) ; à la réponse, le nom complet et le crédit de la photo sont affichés.
+- **Meilleurs scores** : trois classements Top 20 séparés (**Grades**, **Culture** et **Véhicules**), stockés côté serveur.
 - Interface responsive (ordinateur / tablette / mobile).
 - `index.html` est **autonome** : CSS, JS, images (base64) et questions y sont embarqués — il fonctionne même ouvert directement dans un navigateur.
 
@@ -25,6 +27,8 @@ En ligne : **http://grade.catrouillet.net**
 | `server.py` | Serveur Python (bibliothèque standard) : sert la page **et** l'API des scores. |
 | `culture.json` | Source des questions de culture (générale + militaire). Ré-injectée dans `index.html`. |
 | `Questions culture *.txt` | Sources brutes des questions. |
+| `Vehicules/`, `vehicules.json` | Photos des véhicules et leur fiche (nom, catégorie, auteur, licence, lien source). |
+| `build_vehicules.py` | Compresse les photos et les injecte dans `index.html` (`python build_vehicules.py`, nécessite Pillow). |
 | `*.jpg`, `*.png` | Images des galons (sources). |
 
 > `scores.json` (le classement en direct) n'est pas versionné — il est créé par le serveur à l'exécution.
@@ -53,3 +57,4 @@ Le serveur **recalcule** le pourcentage à partir de `score/total` et rejette le
 ## Crédits
 
 - Galons : © A. Klopfenstein / armée de Terre / Défense — à titre indicatif, usage d'entraînement.
+- Photos de véhicules : [Wikimedia Commons](https://commons.wikimedia.org/), sous licences libres (CC0, domaine public, Licence Ouverte, CC BY, CC BY-SA). L'auteur, la licence et le lien de chaque photo figurent dans `vehicules.json` et sont affichés dans le jeu. Les images sont des versions redimensionnées ; celles sous CC BY-SA restent sous CC BY-SA.
