@@ -52,7 +52,33 @@ Le serveur **recalcule** le pourcentage à partir de `score/total` et rejette le
 
 ## Déploiement (Synology NAS)
 
-`server.py` tourne via le planificateur de tâches ; un reverse proxy DSM redirige `grade.catrouillet.net` vers le port du serveur. Comme images et questions sont embarquées, il suffit de recopier `index.html` (et `server.py` si sa logique change).
+### Architecture
+
+- `server.py` tourne via le **Planificateur de tâches** DSM (déclencheur « Au démarrage »), commande :
+  `cd /volume1/.../Grades && GRADES_HOST=127.0.0.1 python3 server.py 8123`
+- **Portail de connexion → Proxy inversé** : `grade.catrouillet.net:80` → `localhost:8123`. Python sert la page **et** `/api/scores`.
+- N'utilisez **pas** Web Station pour héberger la page en statique (l'API répondrait 404).
+- `scores.json` est créé à côté de `server.py` ; il doit être accessible en écriture par l'utilisateur de la tâche.
+
+### Mettre à jour le jeu
+
+Images, photos et questions sont embarquées dans `index.html` : seuls deux fichiers sont à envoyer, dans le dossier du jeu sur le NAS.
+
+| Fichier | À envoyer |
+|---|---|
+| `index.html` | **Toujours** (contenu, photos, questions, interface). |
+| `server.py` | Uniquement si sa logique change (ex. ajout du jeu `vehicules` et de son classement). |
+| `Vehicules/`, `vehicules.json`, `build_vehicules.py`, `culture.json`, `*.png`, `*.txt` | **Jamais** (sources, utiles seulement en local). |
+| `scores.json` | **Ne pas écraser** : c'est le classement en direct. |
+
+1. En local : `python build_vehicules.py` si les photos ont changé, puis vérifier le jeu sur `http://localhost:8123`.
+2. Copier `index.html` (et `server.py` si modifié) sur le NAS, par File Station ou SMB.
+3. Si `server.py` a changé : DSM → Planificateur de tâches → sélectionner la tâche → **Exécuter** après l'avoir arrêtée (Python ne recharge pas le code seul). Si seul `index.html` a changé, aucun redémarrage n'est nécessaire.
+4. Vérifier : `http://grade.catrouillet.net` (Ctrl+F5 pour vider le cache), puis jouer une partie Véhicules et contrôler que le score apparaît dans le classement.
+
+En cas de problème, en SSH sur le NAS : `curl -i http://127.0.0.1:8123/api/scores`. `server.py` affiche ses erreurs dans la console et renvoie un 500 avec un champ `detail`.
+
+> Version actuelle (quiz Véhicules) : `server.py` **doit** être mis à jour, sinon les scores Véhicules sont enregistrés comme des scores Grades.
 
 ## Crédits
 
