@@ -14,7 +14,7 @@ En ligne : **http://grade.catrouillet.net**
 - **Grades** : quiz Galon → Nom, Nom → Galon ou mixte, plus un mode **apprentissage** (fiches cliquables en plein écran).
 - **Culture** : QCM à 5 choix.
 - **Chrono** optionnel (10 / 5 / 3 s par question).
-- **Véhicules** : photo → nom parmi 5 choix (mauvaises réponses prises en priorité dans la même catégorie) ; à la réponse, le nom complet et le crédit de la photo sont affichés.
+- **Véhicules** : trois types de quiz — **Photo → Nom** (5 noms), **Nom → Photo** (4 photos) et **Mixte** (alternance des deux) ; les mauvaises réponses sont prises en priorité dans la même catégorie. À la réponse, le nom complet et le crédit de la photo sont affichés. Un mode **apprentissage** présente les 21 véhicules en fiches cliquables (plein écran avec nom complet, catégorie et crédit).
 - **Meilleurs scores** : trois classements Top 20 séparés (**Grades**, **Culture** et **Véhicules**), stockés côté serveur.
 - Interface responsive (ordinateur / tablette / mobile).
 - `index.html` est **autonome** : CSS, JS, images (base64) et questions y sont embarqués — il fonctionne même ouvert directement dans un navigateur.

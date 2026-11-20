@@ -118,6 +118,11 @@
   .gcard img{width:100%;height:150px;object-fit:contain;background:#fff;border-radius:8px;padding:6px}
   .gcard .gname{margin-top:8px;font-weight:600}
   .gcard .gcat{font-size:.78rem;color:var(--muted)}
+  .gcard.veh img{object-fit:cover;padding:0;background:none}
+  .answers.img.veh .ans{padding:6px}
+  .answers.img.veh .ans img{height:150px;object-fit:cover;padding:0;background:none}
+  .lightbox .lb-credit{margin-top:8px;font-size:.78rem;color:var(--muted)}
+  .lightbox .lb-credit a{color:var(--muted)}
 
   /* Lightbox (fullscreen fiche) */
   .lightbox{position:fixed;inset:0;z-index:100;display:flex;align-items:center;justify-content:center;
@@ -178,6 +183,7 @@
     .prompt .q-name{font-size:1.25rem}
     .answers.text .ans{padding:13px 14px;font-size:1rem}
     .ans img{height:100px}
+    .answers.img.veh .ans img{height:110px}
     .gallery{grid-template-columns:repeat(2,1fr);gap:10px}
     .gcard img{height:115px}
     button.primary{width:100%;padding:15px}
@@ -347,6 +353,7 @@
     <figcaption>
       <div class="lb-name" id="lbName"></div>
       <div class="lb-cat" id="lbCat"></div>
+      <div class="lb-credit" id="lbCredit"></div>
     </figcaption>
   </figure>
 </div>
@@ -505,13 +512,24 @@ function updateCount(){
 }
 
 /* Affiche/masque les panneaux selon le jeu choisi */
+function setChip(boxSel,key,val){
+  state[key]=val;
+  $$(boxSel+" .chip").forEach(c=>c.classList.toggle("sel", c.dataset[key]===val));
+}
+const TYPE_LABELS = {
+  grades:   {img2name:"🖼️ Galon → Nom",  name2img:"📝 Nom → Galon",  mixte:"🔀 Mixte"},
+  vehicules:{img2name:"🖼️ Photo → Nom",  name2img:"📝 Nom → Photo",  mixte:"🔀 Mixte"}
+};
 function updateSetupUI(){
-  const isGrades = state.game==="grades";
-  if(!isGrades) state.mode="quiz";
-  const learn = isGrades && state.mode==="learn";
+  const isGrades = state.game==="grades", isVeh = state.game==="vehicules";
+  const hasModes = isGrades || isVeh;          // apprentissage disponible
+  if(!hasModes && state.mode!=="quiz") setChip("#modeBox","mode","quiz");
+  const learn = hasModes && state.mode==="learn";
   $("#catPanel").classList.toggle("hidden", !isGrades);
-  $("#modePanel").classList.toggle("hidden", !isGrades);
-  $("#quizOpts").classList.toggle("hidden", !isGrades || learn);  // type de question : grades seulement
+  $("#modePanel").classList.toggle("hidden", !hasModes);
+  $("#quizOpts").classList.toggle("hidden", !hasModes || learn);  // type de question : grades et véhicules
+  const tl = TYPE_LABELS[isVeh?"vehicules":"grades"];
+  $$("#typeBox .chip").forEach(c=>c.textContent = tl[c.dataset.type]);
   $("#timerOpts").classList.toggle("hidden", learn);              // chrono : tous les quiz
   $("#startBtn").textContent = learn ? "Voir les fiches 📖" : "Commencer ▶";
   updateCount();
@@ -558,14 +576,18 @@ function buildCultureQuestions(game){
 function buildVehicleQuestions(){
   const pool = shuffle(VEHICLES.slice());
   const limit = Math.min(pool.length, 15);
-  const qs=[];
+  const qs=[], flip=(Math.random()*2)|0;
   for(let i=0;i<limit;i++){
     const v = pool[i];
     const others = VEHICLES.filter(x=>x.name!==v.name);
     const same = shuffle(others.filter(x=>x.cat===v.cat));
     const rest = shuffle(others.filter(x=>x.cat!==v.cat));
-    const distractors = [...same.slice(0,3), ...rest].slice(0,4);
-    qs.push({type:"vehicle", vehicle:v, correct:{name:v.name}, opts:shuffle([v,...distractors])});
+    // Nom -> Photo : 4 photos (grille 2x2) ; Photo -> Nom : 5 noms
+    // Mixte : alternance photo->nom / nom->photo (départ aléatoire) pour garantir les deux types
+    const type = state.type==="mixte" ? ((i+flip)%2 ? "img2name" : "name2img") : state.type;
+    const nb = type==="name2img" ? 3 : 4;
+    const distractors = [...same.slice(0,nb), ...rest].slice(0,nb);
+    qs.push({type: type==="name2img" ? "vehicle2img" : "vehicle", vehicle:v, correct:{name:v.name}, opts:shuffle([v,...distractors])});
   }
   return qs;
 }
@@ -587,6 +609,13 @@ function renderQuestion(){
       <div class="credit" id="vehCredit"></div>`;
     ans.className="answers text";
     ans.innerHTML = q.opts.map(o=>`<div class="ans" data-name="${escapeHtml(o.name)}">${escapeHtml(o.name)}</div>`).join("");
+  } else if(q.type==="vehicle2img"){
+    prompt.innerHTML = `<div class="lead">Quelle photo correspond à&nbsp;:</div>
+      <div class="q-name">${escapeHtml(q.vehicle.name)}</div>
+      <div class="credit" id="vehCredit"></div>`;
+    ans.className="answers img veh";
+    ans.innerHTML = q.opts.map(o=>`<div class="ans" data-name="${escapeHtml(o.name)}">
+      <img src="${o.img}" alt="photo de véhicule" loading="lazy"><span class="cap">?</span></div>`).join("");
   } else if(q.type==="qcm"){
     prompt.innerHTML = `<div class="lead">Question :</div>
       <div class="q-question">${escapeHtml(q.qtext)}</div>`;
@@ -659,7 +688,7 @@ function reveal(chosen,q){
   }else{
     fb.textContent=`✗ Non — c'était : ${correctName}`; fb.className="feedback no";
   }
-  if(q.type==="vehicle"){
+  if(q.vehicle){
     // nom complet + crédit photo (exigé par les licences CC BY / CC BY-SA)
     const v=q.vehicle;
     fb.textContent += ` — ${v.full}`;
@@ -776,6 +805,26 @@ async function saveHighScore(){
 }
 
 /* ---------- LEARN ---------- */
+const VCAT = {blinde:"Blindés", artillerie:"Artillerie", helico:"Hélicoptères", logistique:"Logistique"};
+function buildVehicleGallery(){
+  const order=Object.keys(VCAT);
+  const list=VEHICLES.map((v,i)=>({v,i})).sort((a,b)=>order.indexOf(a.v.cat)-order.indexOf(b.v.cat)||a.v.name.localeCompare(b.v.name,"fr"));
+  $("#gallery").innerHTML = list.map(({v,i})=>`
+    <div class="gcard veh" tabindex="0" data-i="${i}">
+      <img src="${v.img}" alt="${escapeHtml(v.name)}" loading="lazy">
+      <div class="gname">${escapeHtml(v.name)}</div>
+      <div class="gcat">${escapeHtml(v.full)}</div>
+    </div>`).join("");
+  $$("#gallery .gcard").forEach(c=>{
+    const open=()=>{
+      const v=VEHICLES[c.dataset.i];
+      openLightbox(v.img, v.name, `${v.full} · ${VCAT[v.cat]||""}`,
+        `Photo : <a href="${v.source}" target="_blank" rel="noopener">${escapeHtml(v.credit)}</a>`);
+    };
+    c.addEventListener("click",open);
+    c.addEventListener("keydown",e=>{ if(e.key==="Enter"||e.key===" "){e.preventDefault();open();} });
+  });
+}
 function buildGallery(){
   const ranks = selectedRanks().filter(r=>!r.quizOnly);  // pas de chasseurs en apprentissage
   $("#gallery").innerHTML = ranks.map(r=>`
@@ -792,9 +841,10 @@ function buildGallery(){
 }
 
 /* ---------- LIGHTBOX ---------- */
-function openLightbox(src,name,cat){
+function openLightbox(src,name,cat,creditHtml){
   $("#lbImg").src=src; $("#lbImg").alt=name;
   $("#lbName").textContent=name; $("#lbCat").textContent=cat;
+  $("#lbCredit").innerHTML=creditHtml||"";
   $("#lightbox").classList.add("open");
 }
 function closeLightbox(){ $("#lightbox").classList.remove("open"); $("#lbImg").src=""; }
@@ -805,6 +855,7 @@ function start(){
     if(state.mode==="learn"){ buildGallery(); show("learn"); return; }
     state.questions=buildQuestions();
   } else if(state.game==="vehicules"){
+    if(state.mode==="learn"){ buildVehicleGallery(); show("learn"); return; }
     state.questions=buildVehicleQuestions();
   } else {
     state.questions=buildCultureQuestions(state.game);
