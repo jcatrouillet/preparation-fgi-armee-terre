@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Serveur du jeu "Grades de l'armee de Terre" + API des meilleurs scores.
+"""Serveur du jeu "Preparation a la FGI de l'armee de Terre" + API des meilleurs scores.
 
 - GET  /              -> index.html
 - GET  /api/scores    -> liste JSON du Top 20
@@ -196,7 +196,7 @@ class Handler(BaseHTTPRequestHandler):
 
 if __name__ == "__main__":
     srv = ThreadingHTTPServer((HOST, PORT), Handler)
-    print(f"Jeu des grades : ecoute sur {HOST}:{PORT}  (scores -> {SCORES_FILE})")
+    print(f"Preparation FGI : ecoute sur {HOST}:{PORT}  (scores -> {SCORES_FILE})")
     try:
         srv.serve_forever()
     except KeyboardInterrupt:

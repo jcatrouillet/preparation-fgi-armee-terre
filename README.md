@@ -1,4 +1,4 @@
-# Grades de l'armée de Terre française — Jeu d'apprentissage
+# Préparation à la FGI (Formation Générale Initiale) de l'Armée de Terre
 
 Jeu web pour apprendre et réviser :
 
