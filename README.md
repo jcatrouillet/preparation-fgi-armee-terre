@@ -16,7 +16,7 @@ En ligne : **http://grade.catrouillet.net**
 - **Culture** : QCM à 5 choix.
 - **Chrono** optionnel (10 / 5 / 3 s par question).
 - **Véhicules** : trois types de quiz — **Photo → Nom** (5 noms), **Nom → Photo** (4 photos) et **Mixte** (alternance des deux) ; les mauvaises réponses sont prises en priorité dans la même catégorie. À la réponse, le nom complet et le crédit de la photo sont affichés. Un mode **apprentissage** présente les 21 véhicules en fiches cliquables ; chaque fiche plein écran donne la date de mise en service, la vitesse, le poids, l'équipage / les passagers, l'armement (type et calibre), l'autonomie, les missions principales, un **conseil pour le reconnaître** ou le distinguer d'un véhicule voisin, et le crédit de la photo.
-- **Livres de référence** : le joueur choisit sur quel(s) livre(s) porte le quiz (215 questions à 5 choix, tirage équilibré entre les livres, référence du passage affichée à la réponse). Le mode **apprentissage** propose une fiche par livre (articles du code d'honneur, vertus, armes et traditions, emblèmes…).
+- **Livres de référence** : le joueur choisit sur quel(s) livre(s) porte le quiz (210 questions à 5 choix, tirage équilibré entre les livres, référence du passage affichée à la réponse). Le mode **apprentissage** propose une fiche par livre (articles du code d'honneur, vertus, armes et traditions, emblèmes…).
 - **Meilleurs scores** : quatre classements Top 20 séparés (**Grades**, **Culture**, **Véhicules** et **Livres**), stockés côté serveur.
 - Interface responsive (ordinateur / tablette / mobile).
 - `index.html` est **autonome** : CSS, JS, images (base64) et questions y sont embarqués — il fonctionne même ouvert directement dans un navigateur.

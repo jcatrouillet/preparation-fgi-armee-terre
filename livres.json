@@ -418,7 +418,7 @@
   },
   {
    "l": "orange",
-   "q": "Quelles sont les trois valeurs citées à l'article 2 du Code d'honneur ?",
+   "q": "Selon le Code d'honneur, avec quelles trois valeurs le soldat se conduit-il en toutes circonstances ?",
    "a": "Honneur, courage et dignité",
    "d": [
     "Honneur, discipline et fraternité",
@@ -430,19 +430,7 @@
   },
   {
    "l": "orange",
-   "q": "« Soldat français, je m'engage à servir mon pays » : de quel article s'agit-il ?",
-   "a": "L'article 1",
-   "d": [
-    "L'article 2",
-    "L'article 3",
-    "L'article 5",
-    "L'article 10"
-   ],
-   "e": "Livre orange — Article 1"
-  },
-  {
-   "l": "orange",
-   "q": "Selon l'article 3, le soldat est exemplaire dans :",
+   "q": "Selon le Code d'honneur, le soldat toujours disponible et discipliné est exemplaire dans :",
    "a": "Son comportement comme dans sa tenue",
    "d": [
     "Son service comme dans sa vie privée",
@@ -454,7 +442,7 @@
   },
   {
    "l": "orange",
-   "q": "Selon l'article 4, comment le soldat s'exprime-t-il ?",
+   "q": "Selon le Code d'honneur, comment s'exprime le soldat respectueux des lois et des règlements ?",
    "a": "Avec la réserve qu'exige son état militaire",
    "d": [
     "Avec franchise envers tous",
@@ -466,7 +454,7 @@
   },
   {
    "l": "orange",
-   "q": "Selon l'article 5, le soldat obéit avec confiance et commande avec…",
+   "q": "Selon le Code d'honneur, le soldat loyal à ses chefs et dévoué à ses subordonnés obéit avec confiance et commande avec…",
    "a": "Exigence et bienveillance",
    "d": [
     "Fermeté et rigueur",
@@ -478,7 +466,7 @@
   },
   {
    "l": "orange",
-   "q": "Selon l'article 6, le soldat est membre d'une communauté soudée par :",
+   "q": "Selon le Code d'honneur, le soldat est membre d'une communauté soudée par :",
    "a": "L'esprit de corps",
    "d": [
     "La discipline",
@@ -490,7 +478,7 @@
   },
   {
    "l": "orange",
-   "q": "Que recherche le soldat selon l'article 7 ?",
+   "q": "Selon le Code d'honneur, que recherche le soldat prêt à l'engagement et qui s'entraîne sans relâche ?",
    "a": "L'excellence",
    "d": [
     "La performance",
@@ -502,7 +490,7 @@
   },
   {
    "l": "orange",
-   "q": "Que le soldat n'abandonne-t-il jamais au combat, selon l'article 8 ?",
+   "q": "Selon le Code d'honneur, que le soldat n'abandonne-t-il jamais au combat ?",
    "a": "Son arme ni ses camarades morts ou blessés",
    "d": [
     "Son chef ni son drapeau",
@@ -514,7 +502,7 @@
   },
   {
    "l": "orange",
-   "q": "Que dit l'article 9 à propos de la mission ?",
+   "q": "Que dit le Code d'honneur à propos de la mission ?",
    "a": "Elle est sacrée",
    "d": [
     "Elle est l'honneur du soldat",
@@ -526,7 +514,7 @@
   },
   {
    "l": "orange",
-   "q": "Qu'est-ce qui guide l'action du soldat selon l'article 10 ?",
+   "q": "Selon le Code d'honneur, qu'est-ce qui guide l'action du soldat ?",
    "a": "Le succès des armes de la France",
    "d": [
     "La gloire de son régiment",
@@ -535,54 +523,6 @@
     "L'honneur de son unité"
    ],
    "e": "Livre orange — Article 10"
-  },
-  {
-   "l": "orange",
-   "q": "Quel article du code traite de l'éthique du soldat au combat (humanité, respect de l'ennemi) ?",
-   "a": "L'article 8",
-   "d": [
-    "L'article 5",
-    "L'article 6",
-    "L'article 9",
-    "L'article 10"
-   ],
-   "e": "Livre orange — 3.1 L'éthique du soldat français au combat"
-  },
-  {
-   "l": "orange",
-   "q": "Quels articles forment le volet « Mission » du code ?",
-   "a": "Les articles 8, 9 et 10",
-   "d": [
-    "Les articles 7, 8 et 9",
-    "Les articles 9 et 10",
-    "Les articles 1 et 2",
-    "Les articles 3 à 7"
-   ],
-   "e": "Livre orange — Sommaire"
-  },
-  {
-   "l": "orange",
-   "q": "Quels articles forment le volet « Engagement » du code ?",
-   "a": "Les articles 1 et 2",
-   "d": [
-    "Les articles 1 à 3",
-    "Les articles 1 à 5",
-    "L'article 1 seulement",
-    "Les articles 2 et 3"
-   ],
-   "e": "Livre orange — Sommaire"
-  },
-  {
-   "l": "orange",
-   "q": "Quels articles forment le volet « Comportement » du code ?",
-   "a": "Les articles 3 à 7",
-   "d": [
-    "Les articles 2 à 6",
-    "Les articles 3 à 5",
-    "Les articles 4 à 8",
-    "Les articles 5 à 9"
-   ],
-   "e": "Livre orange — Sommaire"
   },
   {
    "l": "orange",
@@ -742,7 +682,7 @@
   },
   {
    "l": "orange",
-   "q": "Selon l'article L4122-3 du code de la défense, le militaire exerce ses fonctions avec…",
+   "q": "Selon le code de la défense, le militaire exerce ses fonctions avec…",
    "a": "Dignité, impartialité, intégrité et probité",
    "d": [
     "Honneur, courage, dignité et loyauté",
@@ -754,7 +694,7 @@
   },
   {
    "l": "orange",
-   "q": "Selon l'article L4111-1 du code de la défense, que l'état militaire exige-t-il en toute circonstance ?",
+   "q": "Selon le code de la défense, que l'état militaire exige-t-il en toute circonstance ?",
    "a": "Esprit de sacrifice, discipline, disponibilité, loyalisme et neutralité",
    "d": [
     "Honneur, courage, dignité, discipline et loyauté",
@@ -790,7 +730,7 @@
   },
   {
    "l": "orange",
-   "q": "Quel droit est incompatible avec l'état militaire (article L4121-4) ?",
+   "q": "Quel droit est incompatible avec l'état militaire ?",
    "a": "Le droit de grève",
    "d": [
     "Le droit de vote",
@@ -1030,7 +970,7 @@
   },
   {
    "l": "orange",
-   "q": "Quel colonel est l'auteur de l'ordre du jour cité à l'article 10 ?",
+   "q": "Quel colonel est l'auteur de l'ordre du jour cité à la fin du livre orange ?",
    "a": "Le colonel Bernard Thorette",
    "d": [
     "Le colonel Pierre Messmer",
@@ -1042,7 +982,7 @@
   },
   {
    "l": "orange",
-   "q": "À la veille de quelle opération l'ordre du jour de l'article 10 a-t-il été rédigé ?",
+   "q": "À la veille de quelle opération l'ordre du jour cité à la fin du livre orange a-t-il été rédigé ?",
    "a": "L'offensive terrestre au Koweït et en Irak (Tempête du désert)",
    "d": [
     "L'opération Serval au Mali",
