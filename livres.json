@@ -538,18 +538,6 @@
   },
   {
    "l": "orange",
-   "q": "En quelle année a été publié le livre orange ?",
-   "a": "2020",
-   "d": [
-    "2016",
-    "2018",
-    "2019",
-    "2001"
-   ],
-   "e": "Livre orange — État-major de l'armée de Terre, juin 2020"
-  },
-  {
-   "l": "orange",
    "q": "Quel rôle joue le livre orange dans le corpus des textes fondateurs de l'armée de Terre ?",
    "a": "Il en est le quatrième pilier",
    "d": [
@@ -970,18 +958,6 @@
   },
   {
    "l": "orange",
-   "q": "Quel colonel est l'auteur de l'ordre du jour cité à la fin du livre orange ?",
-   "a": "Le colonel Bernard Thorette",
-   "d": [
-    "Le colonel Pierre Messmer",
-    "Le colonel Jean-Pierre Bosser",
-    "Le colonel Philippe Leclerc",
-    "Le colonel Henri Gouraud"
-   ],
-   "e": "Livre orange — Article 10"
-  },
-  {
-   "l": "orange",
    "q": "À la veille de quelle opération l'ordre du jour cité à la fin du livre orange a-t-il été rédigé ?",
    "a": "L'offensive terrestre au Koweït et en Irak (Tempête du désert)",
    "d": [
@@ -1003,42 +979,6 @@
     "Le soldat et la force. Éthique de l'emploi des armes"
    ],
    "e": "Livre vert — Page de titre"
-  },
-  {
-   "l": "vert",
-   "q": "En quelle année a été publié le livre vert actuel ?",
-   "a": "2018 (été)",
-   "d": [
-    "1999",
-    "2003",
-    "2016",
-    "2020"
-   ],
-   "e": "Livre vert — Paris, été 2018"
-  },
-  {
-   "l": "vert",
-   "q": "Le livre vert actualise une édition de quelle année ?",
-   "a": "1999",
-   "d": [
-    "1996",
-    "2001",
-    "2003",
-    "2008"
-   ],
-   "e": "Livre vert — Avertissement"
-  },
-  {
-   "l": "vert",
-   "q": "Qui a rédigé la préface du livre vert ?",
-   "a": "Le général Jean-Pierre Bosser, chef d'état-major de l'armée de Terre",
-   "d": [
-    "Le général Thierry Burkhard, chef d'état-major de l'armée de Terre",
-    "Le général Pierre de Villiers, chef d'état-major des armées",
-    "Le maréchal de Lattre de Tassigny, chef de la 1re armée",
-    "Le général Lagarde, auteur des directives de 1977"
-   ],
-   "e": "Livre vert — Préface"
   },
   {
    "l": "vert",
@@ -1495,30 +1435,6 @@
     "Traditions et symboles de l'armée de Terre française"
    ],
    "e": "Livre kaki — Page de titre"
-  },
-  {
-   "l": "kaki",
-   "q": "En quelle année a été publié le livre kaki ?",
-   "a": "2019",
-   "d": [
-    "2003",
-    "2016",
-    "2018",
-    "2020"
-   ],
-   "e": "Livre kaki — Paris, juin 2019"
-  },
-  {
-   "l": "kaki",
-   "q": "Le livre kaki actualise une édition de quelle année ?",
-   "a": "2003",
-   "d": [
-    "1999",
-    "2001",
-    "2008",
-    "2016"
-   ],
-   "e": "Livre kaki — Avertissement"
   },
   {
    "l": "kaki",
@@ -2290,30 +2206,6 @@
   },
   {
    "l": "kaki",
-   "q": "Combien de bataillons de chasseurs à pied sont créés en 1842 ?",
-   "a": "Dix",
-   "d": [
-    "Trois",
-    "Quinze",
-    "Trente",
-    "Soixante-dix-sept"
-   ],
-   "e": "Livre kaki — Les armes : les chasseurs"
-  },
-  {
-   "l": "kaki",
-   "q": "Combien de bataillons de chasseurs à pied forment les chasseurs pendant la Grande Guerre ?",
-   "a": "77",
-   "d": [
-    "10",
-    "42",
-    "120",
-    "200"
-   ],
-   "e": "Livre kaki — Les armes : les chasseurs"
-  },
-  {
-   "l": "kaki",
    "q": "Quelle tenue portent les chasseurs ?",
    "a": "La tenue bleue",
    "d": [
@@ -2465,42 +2357,6 @@
     "Le modèle 1852",
     "Le modèle 1914",
     "Le modèle 1945"
-   ],
-   "e": "Livre kaki — Les emblèmes"
-  },
-  {
-   "l": "kaki",
-   "q": "Qui a remis les emblèmes modèle 1880 aux régiments, et où ?",
-   "a": "Le président Jules Grévy, à Longchamp",
-   "d": [
-    "Le général Borel, aux Invalides",
-    "Napoléon III, au Champ-de-Mars",
-    "Le président Mac-Mahon, à Vincennes",
-    "Le général Boulanger, à Longchamp"
-   ],
-   "e": "Livre kaki — Les emblèmes"
-  },
-  {
-   "l": "kaki",
-   "q": "Quelle est la date de remise des emblèmes de 1880 ?",
-   "a": "Le 14 juillet 1880",
-   "d": [
-    "Le 14 juillet 1789",
-    "Le 11 novembre 1880",
-    "Le 14 juillet 1878",
-    "Le 1er janvier 1880"
-   ],
-   "e": "Livre kaki — Les emblèmes"
-  },
-  {
-   "l": "kaki",
-   "q": "Depuis quelle année figurent des inscriptions de batailles sur les emblèmes ?",
-   "a": "1797",
-   "d": [
-    "1792",
-    "1804",
-    "1852",
-    "1880"
    ],
    "e": "Livre kaki — Les emblèmes"
   },
