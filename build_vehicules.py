@@ -45,6 +45,7 @@ def main():
             "img": encode(path),
             "credit": "%s — %s" % (v["author"], v["license"]),
             "source": v["source"],
+            "info": v.get("info", {}),      # fiche : service, vitesse, poids, armement…
         })
 
     block = "%s\nconst VEHICLES = %s;\n%s" % (

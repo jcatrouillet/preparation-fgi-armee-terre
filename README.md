@@ -14,7 +14,7 @@ En ligne : **http://grade.catrouillet.net**
 - **Grades** : quiz Galon → Nom, Nom → Galon ou mixte, plus un mode **apprentissage** (fiches cliquables en plein écran).
 - **Culture** : QCM à 5 choix.
 - **Chrono** optionnel (10 / 5 / 3 s par question).
-- **Véhicules** : trois types de quiz — **Photo → Nom** (5 noms), **Nom → Photo** (4 photos) et **Mixte** (alternance des deux) ; les mauvaises réponses sont prises en priorité dans la même catégorie. À la réponse, le nom complet et le crédit de la photo sont affichés. Un mode **apprentissage** présente les 21 véhicules en fiches cliquables (plein écran avec nom complet, catégorie et crédit).
+- **Véhicules** : trois types de quiz — **Photo → Nom** (5 noms), **Nom → Photo** (4 photos) et **Mixte** (alternance des deux) ; les mauvaises réponses sont prises en priorité dans la même catégorie. À la réponse, le nom complet et le crédit de la photo sont affichés. Un mode **apprentissage** présente les 21 véhicules en fiches cliquables ; chaque fiche plein écran donne la date de mise en service, la vitesse, le poids, l'équipage / les passagers, l'armement (type et calibre), l'autonomie, les missions principales, un **conseil pour le reconnaître** ou le distinguer d'un véhicule voisin, et le crédit de la photo.
 - **Meilleurs scores** : trois classements Top 20 séparés (**Grades**, **Culture** et **Véhicules**), stockés côté serveur.
 - Interface responsive (ordinateur / tablette / mobile).
 - `index.html` est **autonome** : CSS, JS, images (base64) et questions y sont embarqués — il fonctionne même ouvert directement dans un navigateur.
@@ -83,4 +83,5 @@ En cas de problème, en SSH sur le NAS : `curl -i http://127.0.0.1:8123/api/scor
 ## Crédits
 
 - Galons : © A. Klopfenstein / armée de Terre / Défense — à titre indicatif, usage d'entraînement.
+- Caractéristiques des véhicules (`info` dans `vehicules.json`) : [ministère des Armées](https://www.defense.gouv.fr/terre/nos-materiels/nos-equipements-terre/vehicules-larmee-terre) et Wikipédia (dates de mise en service, matériels absents du site officiel). Valeurs indicatives : elles varient selon les versions.
 - Photos de véhicules : [Wikimedia Commons](https://commons.wikimedia.org/), sous licences libres (CC0, domaine public, Licence Ouverte, CC BY, CC BY-SA). L'auteur, la licence et le lien de chaque photo figurent dans `vehicules.json` et sont affichés dans le jeu. Les images sont des versions redimensionnées ; celles sous CC BY-SA restent sous CC BY-SA.

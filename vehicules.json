@@ -1,191 +1,397 @@
 [
- {
-  "name": "Char Leclerc",
-  "file": "char-leclerc.jpg",
-  "cat": "blinde",
-  "full": "Char de combat principal",
-  "author": "Staff Sgt. Kathleen Polanco (US Army)",
-  "license": "Domaine public",
-  "source": "https://commons.wikimedia.org/wiki/File:French_Leclerc_main_battle_tank_during_Strong_Europe_Tank_Challenge_exercise,_2017.jpg"
- },
- {
-  "name": "VBCI",
-  "file": "vbci.jpg",
-  "cat": "blinde",
-  "full": "Véhicule blindé de combat d'infanterie",
-  "author": "AlfvanBeem",
-  "license": "CC0",
-  "source": "https://commons.wikimedia.org/wiki/File:VBCI,_(V%C3%A9hicule_Blind%C3%A9_de_Combat_de_l%27Infanterie),_French_army_licence_registration_%276094_0048%27,_OURCQ_1918_photo-1.JPG"
- },
- {
-  "name": "VAB",
-  "file": "vab.jpg",
-  "cat": "blinde",
-  "full": "Véhicule de l'avant blindé",
-  "author": "AlfvanBeem",
-  "license": "CC0",
-  "source": "https://commons.wikimedia.org/wiki/File:V%C3%A9hicule_de_l%27Avant_Blind%C3%A9,_VAB_4x4,_army_licence_registration_6813_1188_photo-1.JPG"
- },
- {
-  "name": "Griffon",
-  "file": "griffon.jpg",
-  "cat": "blinde",
-  "full": "Véhicule blindé multi-rôles (VBMR)",
-  "author": "Robinsauveur",
-  "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:VBMR_Griffon_disposant_d%27un_nouveau_camouflage_(d%C3%A9fil%C3%A9_14_Juillet_2023).jpg"
- },
- {
-  "name": "Jaguar",
-  "file": "jaguar.jpg",
-  "cat": "blinde",
-  "full": "Engin blindé de reconnaissance et de combat (EBRC)",
-  "author": "Armée de Terre",
-  "license": "Licence Ouverte",
-  "source": "https://commons.wikimedia.org/wiki/File:EBRC_Jaguar_armoured_reconnaissance_vehicle.jpg"
- },
- {
-  "name": "Serval",
-  "file": "serval.jpg",
-  "cat": "blinde",
-  "full": "Véhicule blindé multi-rôles léger (VBMR-L)",
-  "author": "Kevin.B",
-  "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Arm%C3%A9e_de_terre_-_VBMR-L_Serval_(14_juillet_2023).jpg"
- },
- {
-  "name": "AMX-10 RC",
-  "file": "amx-10-rc.jpg",
-  "cat": "blinde",
-  "full": "Engin de reconnaissance à roues et canon de 105 mm",
-  "author": "davric",
-  "license": "Domaine public",
-  "source": "https://commons.wikimedia.org/wiki/File:AMX-10-RC.JPG"
- },
- {
-  "name": "ERC-90 Sagaie",
-  "file": "erc-90-sagaie.jpg",
-  "cat": "blinde",
-  "full": "Engin de reconnaissance à canon de 90 mm",
-  "author": "Jonile10",
-  "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:ERC-90_Sagaie.jpg"
- },
- {
-  "name": "VBL",
-  "file": "vbl.jpg",
-  "cat": "blinde",
-  "full": "Véhicule blindé léger",
-  "author": "AlfvanBeem",
-  "license": "CC0",
-  "source": "https://commons.wikimedia.org/wiki/File:Panhard_VBL_(V%C3%A8hicule_Blind%C3%A9_Leg%C3%A9r),_French_army_licence_registration_%276074_0049%27.JPG"
- },
- {
-  "name": "PVP",
-  "file": "pvp.jpg",
-  "cat": "blinde",
-  "full": "Petit véhicule protégé",
-  "author": "Gzen92",
-  "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:D%C3%A9fil%C3%A9_motoris%C3%A9_-_Petit_V%C3%A9hicule_Prot%C3%A9g%C3%A9_(Colmar).jpg"
- },
- {
-  "name": "EBG",
-  "file": "ebg.jpg",
-  "cat": "blinde",
-  "full": "Engin blindé du génie",
-  "author": "davric",
-  "license": "Domaine public",
-  "source": "https://commons.wikimedia.org/wiki/File:EBG-cote-gauche.JPG"
- },
- {
-  "name": "CAESAR",
-  "file": "caesar.jpg",
-  "cat": "artillerie",
-  "full": "Camion équipé d'un système d'artillerie (155 mm)",
-  "author": "Selvejp",
-  "license": "CC BY-SA 3.0",
-  "source": "https://commons.wikimedia.org/wiki/File:CAESAR_(camion_%C3%A9quip%C3%A9_d%27un_syst%C3%A8me_d%27artillerie)_1.jpg"
- },
- {
-  "name": "AUF1",
-  "file": "auf1.jpg",
-  "cat": "artillerie",
-  "full": "Automoteur d'artillerie de 155 mm",
-  "author": "SGT Brian Gavin (US Army)",
-  "license": "Domaine public",
-  "source": "https://commons.wikimedia.org/wiki/File:AMX_AuF1,_40e_r%C3%A9giment_d%27artillerie,_Implementation_Force,_1996.jpg"
- },
- {
-  "name": "Tigre",
-  "file": "tigre.jpg",
-  "cat": "helico",
-  "full": "Hélicoptère d'attaque",
-  "author": "Clemens Vasters",
-  "license": "CC BY 2.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Airbus_Helicopter_Tiger_(35056042490).jpg"
- },
- {
-  "name": "NH90 Caïman",
-  "file": "nh90-caiman.jpg",
-  "cat": "helico",
-  "full": "Hélicoptère de manœuvre NH90 Caïman",
-  "author": "Eric Salard",
-  "license": "CC BY-SA 2.0",
-  "source": "https://commons.wikimedia.org/wiki/File:CAIMAN_ARMEE_DE_TERRE_14_JUILLET_2018_(28535973447).jpg"
- },
- {
-  "name": "Puma",
-  "file": "puma.jpg",
-  "cat": "helico",
-  "full": "Hélicoptère de transport SA 330 Puma",
-  "author": "dxme",
-  "license": "CC BY-SA 2.0",
-  "source": "https://commons.wikimedia.org/wiki/File:A%C3%A9rospatiale_SA_330_Puma_-_arm%C3%A9e_de_Terre_(19600007073).jpg"
- },
- {
-  "name": "Gazelle",
-  "file": "gazelle.jpg",
-  "cat": "helico",
-  "full": "Hélicoptère léger SA 342 Gazelle",
-  "author": "Andrew Thomas",
-  "license": "CC BY-SA 2.0",
-  "source": "https://commons.wikimedia.org/wiki/File:3856_AEH_Aerospatiale_SA-342M_Gazelle_(cn_1856)_Armee_de_Terre._(6924949599).jpg"
- },
- {
-  "name": "Cougar",
-  "file": "cougar.jpg",
-  "cat": "helico",
-  "full": "Hélicoptère de transport AS 532 Cougar",
-  "author": "Simon Butler",
-  "license": "CC BY 2.0",
-  "source": "https://commons.wikimedia.org/wiki/File:FAIRFORD_23_JULY_1995_FRENCH_ARMY_EUROCOPTER_AS532UL_COUGAR_2282_AIS_(24021093730).jpg"
- },
- {
-  "name": "TRM 2000",
-  "file": "trm-2000.jpg",
-  "cat": "logistique",
-  "full": "Camion tactique Renault TRM 2000",
-  "author": "Auteur inconnu",
-  "license": "Domaine public",
-  "source": "https://commons.wikimedia.org/wiki/File:French_Renault_TRM_2000_truck.JPEG"
- },
- {
-  "name": "TRM 10000",
-  "file": "trm-10000.jpg",
-  "cat": "logistique",
-  "full": "Camion tactique lourd Renault TRM 10000",
-  "author": "AlfvanBeem",
-  "license": "CC0",
-  "source": "https://commons.wikimedia.org/wiki/File:Renault_TRM_10_000_CLD_photo-1.JPG"
- },
- {
-  "name": "Peugeot P4",
-  "file": "peugeot-p4.jpg",
-  "cat": "logistique",
-  "full": "Véhicule léger tactique Peugeot P4",
-  "author": "Kevin.B",
-  "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Peugeot_P4,_nouvelles_couleurs_Arm%C3%A9e_de_Terre_(14_juillet_2021)_(1).jpg"
- }
+  {
+    "name": "Char Leclerc",
+    "file": "char-leclerc.jpg",
+    "cat": "blinde",
+    "full": "Char de combat principal",
+    "author": "Staff Sgt. Kathleen Polanco (US Army)",
+    "license": "Domaine public",
+    "source": "https://commons.wikimedia.org/wiki/File:French_Leclerc_main_battle_tank_during_Strong_Europe_Tank_Challenge_exercise,_2017.jpg",
+    "info": {
+      "service": "1993 (501e-503e régiment de chars de combat, Mourmelon)",
+      "vitesse": "65 km/h sur route · 50 km/h en tout-terrain",
+      "poids": "56 à 63 t",
+      "personnes": "3 : chef de char, tireur, pilote",
+      "armement": "Canon de 120 mm (6 coups/min) · mitrailleuse coaxiale de 12,7 mm · mitrailleuse de 7,62 mm en superstructure",
+      "autonomie": "615 km",
+      "missions": "Char de bataille de 3e génération : détruire les blindés adverses et briser les défenses ennemies au cœur du combat de haute intensité, en appui de l'infanterie.",
+      "astuce": "Seul char de bataille de l'armée de Terre : énorme canon de 120 mm sur une tourelle basse et anguleuse, chenilles. À ne pas confondre avec l'EBG (lame de bulldozer à l'avant, pas de canon)."
+    }
+  },
+  {
+    "name": "VBCI",
+    "file": "vbci.jpg",
+    "cat": "blinde",
+    "full": "Véhicule blindé de combat d'infanterie",
+    "author": "AlfvanBeem",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:VBCI,_(V%C3%A9hicule_Blind%C3%A9_de_Combat_de_l%27Infanterie),_French_army_licence_registration_%276094_0048%27,_OURCQ_1918_photo-1.JPG",
+    "info": {
+      "service": "2008 (premières livraisons au 35e régiment d'infanterie de Belfort)",
+      "vitesse": "100 km/h sur route",
+      "poids": "28 t (jusqu'à 32 t avec surblindage)",
+      "personnes": "3 d'équipage + 8 fantassins (11 combattants)",
+      "armement": "Canon de 25 mm en tourelle · mitrailleuse de 7,62 mm (MAG 58)",
+      "autonomie": "750 km",
+      "missions": "Débarquer le groupe de combat au plus près de l'objectif et l'appuyer par son armement de bord, au sein d'une force blindée.",
+      "astuce": "8 roues et une tourelle à canon de 25 mm : c'est le seul blindé à 8 roues de l'armée de Terre. Le Griffon (6 roues) n'a qu'un tourelleau, le Jaguar (6 roues) un canon de 40 mm."
+    }
+  },
+  {
+    "name": "VAB",
+    "file": "vab.jpg",
+    "cat": "blinde",
+    "full": "Véhicule de l'avant blindé",
+    "author": "AlfvanBeem",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:V%C3%A9hicule_de_l%27Avant_Blind%C3%A9,_VAB_4x4,_army_licence_registration_6813_1188_photo-1.JPG",
+    "info": {
+      "service": "1979",
+      "vitesse": "90 km/h sur route · 45 km/h en tout-terrain (VAB Ultima) · amphibie",
+      "poids": "13 t (VAB Ultima : 13,8 t à vide, 15,8 t en charge)",
+      "personnes": "10 : pilote, radio/tireur et 8 fantassins (VAB Ultima)",
+      "armement": "Tourelleau téléopéré de 12,7 mm (VAB Ultima) · versions anciennes : mitrailleuse de 7,62 ou 12,7 mm",
+      "autonomie": "800 km (avec nourrices)",
+      "missions": "Transport de troupes sous blindage, poste de commandement, sanitaire, reconnaissance NRBC… : le blindé polyvalent de l'infanterie.",
+      "statut": "Remplacé progressivement par le Griffon et le Serval (programme Scorpion)",
+      "astuce": "Caisse anguleuse sur 4 roues (6 pour certaines versions), plus petite et plus basse que le Griffon (6 roues, silhouette plus massive). Le VAB Ultima porte un tourelleau téléopéré sur le toit."
+    }
+  },
+  {
+    "name": "Griffon",
+    "file": "griffon.jpg",
+    "cat": "blinde",
+    "full": "Véhicule blindé multi-rôles (VBMR)",
+    "author": "Robinsauveur",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:VBMR_Griffon_disposant_d%27un_nouveau_camouflage_(d%C3%A9fil%C3%A9_14_Juillet_2023).jpg",
+    "info": {
+      "service": "2019",
+      "vitesse": "90 km/h (sur route et en tout-terrain)",
+      "poids": "24,5 t (PTAC)",
+      "personnes": "Jusqu'à 10 combattants : pilote, tireur et 8 fantassins",
+      "armement": "Tourelleau téléopéré de 12,7 mm · mitrailleuse de 7,62 mm (MAG 58) ou lance-grenades automatique de 40 mm",
+      "autonomie": "800 km",
+      "missions": "Transport de troupes (infanterie, génie, cavalerie, logistique), versions sanitaire et poste de commandement / observation d'artillerie. Pilier du programme Scorpion, il remplace le VAB.",
+      "astuce": "6 roues, grosse caisse haute et un tourelleau téléopéré sur le toit (pas de tourelle à canon). Plus massif que le VAB et que le Serval (4 roues), moins armé que le VBCI et le Jaguar."
+    }
+  },
+  {
+    "name": "Jaguar",
+    "file": "jaguar.jpg",
+    "cat": "blinde",
+    "full": "Engin blindé de reconnaissance et de combat (EBRC)",
+    "author": "Armée de Terre",
+    "license": "Licence Ouverte",
+    "source": "https://commons.wikimedia.org/wiki/File:EBRC_Jaguar_armoured_reconnaissance_vehicle.jpg",
+    "info": {
+      "service": "2022",
+      "vitesse": "80 à 90 km/h sur route",
+      "poids": "20 t à vide · 25 t en charge",
+      "personnes": "3 : chef d'engin, tireur, pilote",
+      "armement": "Canon de 40 mm (obus flèche, explosif, à explosion aérienne) · missile moyenne portée MMP · mitrailleuse téléopérée de 7,62 mm",
+      "autonomie": "800 km",
+      "missions": "Reconnaissance et combat de la cavalerie : renseigner, puis détruire blindés et bâtiments, y compris en zone urbaine ou en montagne. Remplace l'AMX-10 RC et le Sagaie.",
+      "astuce": "6 roues et une tourelle compacte avec un canon de 40 mm. L'AMX-10 RC (6 roues aussi) porte un canon beaucoup plus gros (105 mm) sur une coque plus basse ; le VBCI a 8 roues."
+    }
+  },
+  {
+    "name": "Serval",
+    "file": "serval.jpg",
+    "cat": "blinde",
+    "full": "Véhicule blindé multi-rôles léger (VBMR-L)",
+    "author": "Kevin.B",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arm%C3%A9e_de_terre_-_VBMR-L_Serval_(14_juillet_2023).jpg",
+    "info": {
+      "service": "2022 (premières livraisons ; mise en service officielle en 2023)",
+      "vitesse": "90 km/h",
+      "poids": "15 à 17 t",
+      "personnes": "2 d'équipage + 8 passagers",
+      "armement": "Tourelleau téléopéré de 12,7 mm ou de 7,62 mm",
+      "autonomie": "600 km",
+      "missions": "Blindé multi-rôles « léger » du programme Scorpion : transport de troupes, poste de commandement et versions spécialisées ; il complète le Griffon.",
+      "astuce": "4 roues, cabine carrée et tourelleau téléopéré : plus petit que le Griffon (6 roues), mais bien plus haut et lourd que le VBL (1,70 m de haut, 3,3 t)."
+    }
+  },
+  {
+    "name": "AMX-10 RC",
+    "file": "amx-10-rc.jpg",
+    "cat": "blinde",
+    "full": "Engin de reconnaissance à roues et canon de 105 mm",
+    "author": "davric",
+    "license": "Domaine public",
+    "source": "https://commons.wikimedia.org/wiki/File:AMX-10-RC.JPG",
+    "info": {
+      "service": "1981 (livraisons dès 1977)",
+      "vitesse": "85 km/h sur route (60 km/h préconisés en version rénovée RCR)",
+      "poids": "17 t à vide · 20 t en ordre de combat (RCR)",
+      "personnes": "4 : chef d'engin, tireur, chargeur, pilote",
+      "armement": "Canon de 105 mm · 2 mitrailleuses de 7,62 mm (coaxiale et de superstructure)",
+      "autonomie": "800 km",
+      "missions": "Reconnaissance-feu de la cavalerie : reconnaître l'ennemi et riposter avec un canon puissant ; amphibie (hors surprotection), aérotransportable par C-130 après préparation.",
+      "statut": "En cours de remplacement par le Jaguar",
+      "astuce": "6 roues, coque basse en forme de bateau et long canon de 105 mm. Le Sagaie (ERC-90) lui ressemble, mais il est deux fois plus léger, avec une grande tourelle haute à canon de 90 mm."
+    }
+  },
+  {
+    "name": "ERC-90 Sagaie",
+    "file": "erc-90-sagaie.jpg",
+    "cat": "blinde",
+    "full": "Engin de reconnaissance à canon de 90 mm",
+    "author": "Jonile10",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ERC-90_Sagaie.jpg",
+    "info": {
+      "service": "1984",
+      "vitesse": "90 km/h (95 km/h en version diesel)",
+      "poids": "8,3 à 9,5 t",
+      "personnes": "3 : chef d'engin, tireur, pilote",
+      "armement": "Canon de 90 mm · mitrailleuse coaxiale de 7,62 mm",
+      "autonomie": "730 km (800 km en version diesel)",
+      "missions": "Reconnaissance et appui-feu de la cavalerie légère ; amphibie.",
+      "statut": "Retiré de l'armée de Terre en 2021 (remplacé par le Jaguar)",
+      "astuce": "6 roues, deux fois plus léger que l'AMX-10 RC (8 à 9 t contre 17 t), avec une grande tourelle haute à canon de 90 mm au lieu du 105 mm."
+    }
+  },
+  {
+    "name": "VBL",
+    "file": "vbl.jpg",
+    "cat": "blinde",
+    "full": "Véhicule blindé léger",
+    "author": "AlfvanBeem",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panhard_VBL_(V%C3%A8hicule_Blind%C3%A9_Leg%C3%A9r),_French_army_licence_registration_%276074_0049%27.JPG",
+    "info": {
+      "service": "1990",
+      "vitesse": "90 km/h sur route · amphibie",
+      "poids": "3,3 t à vide · 4 t en ordre de combat",
+      "personnes": "2 à 3 : pilote, chef de bord et, selon la version, un servant d'arme",
+      "armement": "Mitrailleuse de 7,62 mm en tourelle · versions 12,7 mm et antichars (missiles MILAN et ERYX, lance-roquettes AT4 CS)",
+      "autonomie": "1 000 km",
+      "missions": "Reconnaissance et infiltration discrètes, liaison sous blindage ; « véhicule de découverte et de liaison » au sein des unités de chars Leclerc.",
+      "astuce": "Minuscule 4x4 blindé, très bas (1,70 m de haut) et profilé. Le PVP est plus haut (2,17 m) avec de grandes vitres plates ; le Serval est un géant à côté."
+    }
+  },
+  {
+    "name": "PVP",
+    "file": "pvp.jpg",
+    "cat": "blinde",
+    "full": "Petit véhicule protégé",
+    "author": "Gzen92",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%A9fil%C3%A9_motoris%C3%A9_-_Petit_V%C3%A9hicule_Prot%C3%A9g%C3%A9_(Colmar).jpg",
+    "info": {
+      "service": "2004-2012 (livraison des 1 133 exemplaires)",
+      "vitesse": "90 km/h",
+      "poids": "4,4 t (PVP HD : 5,5 t)",
+      "personnes": "3 à 5 personnes selon la version",
+      "armement": "Mitrailleuse MAG 58 de 7,62 mm (600 à 800 coups/min)",
+      "autonomie": "750 km",
+      "missions": "Liaison, reconnaissance et protection : patrouille, escorte, sûreté, contrôle de zone, poste de commandement. Il a remplacé le P4 pour les liaisons en zone de combat.",
+      "astuce": "4x4 blindé en forme de « camionnette » avec grandes vitres et caisse haute (2,17 m). Le VBL est nettement plus bas (1,70 m) et plus profilé."
+    }
+  },
+  {
+    "name": "EBG",
+    "file": "ebg.jpg",
+    "cat": "blinde",
+    "full": "Engin blindé du génie",
+    "author": "davric",
+    "license": "Domaine public",
+    "source": "https://commons.wikimedia.org/wiki/File:EBG-cote-gauche.JPG",
+    "info": {
+      "service": "1989",
+      "poids": "42 t en ordre de bataille",
+      "armement": "Aucun : outils du génie (lame de bulldozer de 3,55 m, bras multi-outils avec pince à grumes de 4 t, godet, brise-roche, treuil de 12 t)",
+      "autonomie": "500 km ou 16 h de travail",
+      "missions": "Dégager et préparer la voie pour les autres engins : appui à la mobilité et à la contre-mobilité, travaux de protection, dégagement d'obstacles, halage de véhicules en panne.",
+      "astuce": "Châssis de char AMX-30B2 avec une lame de bulldozer à l'avant et un long bras articulé, mais sans tourelle ni canon. À ne pas confondre avec le Leclerc."
+    }
+  },
+  {
+    "name": "CAESAR",
+    "file": "caesar.jpg",
+    "cat": "artillerie",
+    "full": "Camion équipé d'un système d'artillerie (155 mm)",
+    "author": "Selvejp",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CAESAR_(camion_%C3%A9quip%C3%A9_d%27un_syst%C3%A8me_d%27artillerie)_1.jpg",
+    "info": {
+      "service": "2008 (série ; 5 exemplaires de pré-série livrés en 2003)",
+      "vitesse": "80 km/h sur route",
+      "poids": "15,9 t à vide · plus de 17 t en ordre de combat",
+      "personnes": "5 servants : chef de pièce, pointeur-tireur, pilote/radio/artificier, 2 pourvoyeurs",
+      "armement": "Canon rayé de 155 mm (52 calibres) · 18 coups embarqués · 6 coups/min · portée de plus de 40 km",
+      "autonomie": "600 km",
+      "missions": "Appui-feu d'artillerie : appuyer les troupes amies, préparer le terrain avant une offensive, neutraliser et détruire l'ennemi, éclairer le champ de bataille, créer des masques fumigènes.",
+      "astuce": "Un camion à roues portant un très long tube de 155 mm à l'arrière, sans tourelle. L'AUF1 est un canon chenillé avec une tourelle fermée."
+    }
+  },
+  {
+    "name": "AUF1",
+    "file": "auf1.jpg",
+    "cat": "artillerie",
+    "full": "Automoteur d'artillerie de 155 mm",
+    "author": "SGT Brian Gavin (US Army)",
+    "license": "Domaine public",
+    "source": "https://commons.wikimedia.org/wiki/File:AMX_AuF1,_40e_r%C3%A9giment_d%27artillerie,_Implementation_Force,_1996.jpg",
+    "info": {
+      "service": "1979",
+      "vitesse": "60 km/h sur route · 30 km/h en tout-terrain",
+      "poids": "43 t",
+      "personnes": "4 : chef de pièce, pilote, pointeur, radio-chargeur",
+      "armement": "Canon de 155 mm de 39 calibres, chargement automatique",
+      "autonomie": "450 km",
+      "missions": "Artillerie sol-sol : tirs d'appui à grande cadence (« 155 GCT », Grande Cadence de Tir) au profit des divisions blindées.",
+      "statut": "Remplacé par le CAESAR (absent de l'inventaire officiel en 2024)",
+      "astuce": "Chenilles et grosse tourelle fermée à canon de 155 mm sur un châssis de char AMX-30 : il ressemble à un char, mais sa tourelle est haute et massive. Le CAESAR est un camion à roues sans tourelle."
+    }
+  },
+  {
+    "name": "Tigre",
+    "file": "tigre.jpg",
+    "cat": "helico",
+    "full": "Hélicoptère d'attaque",
+    "author": "Clemens Vasters",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Airbus_Helicopter_Tiger_(35056042490).jpg",
+    "info": {
+      "service": "2005 (premier appareil livré à l'école franco-allemande du Luc)",
+      "vitesse": "≈ 250 km/h en croisière (jusqu'à 290-315 km/h selon la version)",
+      "poids": "4,2 t à vide · 6,6 t au décollage (max.)",
+      "personnes": "2 en tandem : pilote à l'avant, chef de mission à l'arrière",
+      "armement": "Canon de 30 mm (2,5 km) · roquettes de 68 mm (4 km) · missiles Mistral air-air (6 km) · missiles Hellfire en version HAD (8 km)",
+      "autonomie": "3 h (2 h 30 à 4 h selon la configuration)",
+      "missions": "Reconnaissance, attaque et destruction de jour comme de nuit. La version HAP (appui-protection) peut aussi traquer hélicoptères, avions lents et drones ; la HAD (appui-destruction) détruit les blindés.",
+      "astuce": "Le seul hélicoptère d'attaque de l'armée de Terre : fuselage très étroit à deux places en tandem, canon de 30 mm sous le nez et courtes ailes portant missiles et roquettes."
+    }
+  },
+  {
+    "name": "NH90 Caïman",
+    "file": "nh90-caiman.jpg",
+    "cat": "helico",
+    "full": "Hélicoptère de manœuvre NH90 Caïman",
+    "author": "Eric Salard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CAIMAN_ARMEE_DE_TERRE_14_JUILLET_2018_(28535973447).jpg",
+    "info": {
+      "service": "2011 (premier NH90 TTH reçu en décembre ; adopté officiellement en 2013)",
+      "vitesse": "≈ 300 km/h en croisière",
+      "poids": "6,4 t à vide · 10,6 t au décollage (max.)",
+      "personnes": "4 d'équipage (2 pilotes, mécanicien navigant, membre de soute) + 14 à 20 soldats",
+      "armement": "Armement de bord non détaillé : appui feu en mission secondaire",
+      "autonomie": "4 h (+ 30 min de réserve) · rayon d'action de 880 km (1 600 km en convoyage)",
+      "missions": "Transport tactique de 14 à 20 commandos et héliportage de matériel (jusqu'à 2,5 t) ; missions secondaires : appui feu, parachutage, évacuation sanitaire. Il remplace les Puma.",
+      "astuce": "Hélicoptère de transport biturbine, le plus lourd des trois grands transporteurs : 10,6 t contre 9 t pour le Cougar et 7 t pour le Puma."
+    }
+  },
+  {
+    "name": "Puma",
+    "file": "puma.jpg",
+    "cat": "helico",
+    "full": "Hélicoptère de transport SA 330 Puma",
+    "author": "dxme",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A%C3%A9rospatiale_SA_330_Puma_-_arm%C3%A9e_de_Terre_(19600007073).jpg",
+    "info": {
+      "service": "1969 (première livraison à l'armée de Terre le 13 mai)",
+      "vitesse": "240 km/h en croisière (max. 310 km/h)",
+      "poids": "4 t à vide · 7 t au décollage (max.)",
+      "personnes": "3 d'équipage + 16 à 20 passagers",
+      "missions": "Transport tactique et logistique de moyen tonnage (jusqu'à 2,5 t sous élingue).",
+      "statut": "Remplacé par le NH90 Caïman",
+      "astuce": "L'ancêtre du Cougar, dont il est très proche : cabine plus courte et plus légère (7 t contre 9 t pour le Cougar)."
+    }
+  },
+  {
+    "name": "Gazelle",
+    "file": "gazelle.jpg",
+    "cat": "helico",
+    "full": "Hélicoptère léger SA 342 Gazelle",
+    "author": "Andrew Thomas",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:3856_AEH_Aerospatiale_SA-342M_Gazelle_(cn_1856)_Armee_de_Terre._(6924949599).jpg",
+    "info": {
+      "service": "1973 (1979 pour la version HOT)",
+      "vitesse": "jusqu'à 280 km/h",
+      "poids": "1,9 à 2,1 t (max.)",
+      "personnes": "3 : pilote, chef de mission, tireur",
+      "armement": "4 missiles antichars HOT (4 km) · minigun M134 de 7,62 mm (6 tubes, 3 000 coups/min) · tireur embarqué avec fusil de précision (système STRIKE)",
+      "autonomie": "2 h 40",
+      "missions": "Opérations spéciales : dépose et récupération de commandos, appui-feu (HOT ou tireur embarqué), reconnaissance, ouverture d'itinéraires, prises de vues aériennes.",
+      "statut": "Doit être remplacée par le Guépard (hélicoptère interarmées léger)",
+      "astuce": "Petit hélicoptère monomoteur à cabine vitrée en « bulle » et rotor de queue caréné (fenestron). Environ 2 t seulement, contre 6,6 t pour le Tigre."
+    }
+  },
+  {
+    "name": "Cougar",
+    "file": "cougar.jpg",
+    "cat": "helico",
+    "full": "Hélicoptère de transport AS 532 Cougar",
+    "author": "Simon Butler",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FAIRFORD_23_JULY_1995_FRENCH_ARMY_EUROCOPTER_AS532UL_COUGAR_2282_AIS_(24021093730).jpg",
+    "info": {
+      "service": "Années 1980-1990 (AS 332 reçus en 1986, AS 532 UL commandés en 1996)",
+      "vitesse": "260 km/h en croisière",
+      "poids": "9 t (max.)",
+      "personnes": "4 d'équipage (2 pilotes, mécanicien, membre de soute) + 8 à 12 passagers en version cargo",
+      "armement": "Aucun : équipé de détecteurs d'alerte radar, laser et départ missile, de lance-leurres et de blindages additionnels",
+      "autonomie": "2 h 30 (+ 20 min de réserve)",
+      "missions": "Transport tactique tous temps, héliportage de charges sous élingue, évacuation sanitaire (6 blessés couchés, 4 assis, 3 infirmiers).",
+      "astuce": "Hélicoptère de transport biturbine à cabine longue, très proche du Puma mais plus long et plus lourd (9 t contre 7 t), et moins lourd que le NH90 (10,6 t)."
+    }
+  },
+  {
+    "name": "TRM 2000",
+    "file": "trm-2000.jpg",
+    "cat": "logistique",
+    "full": "Camion tactique Renault TRM 2000",
+    "author": "Auteur inconnu",
+    "license": "Domaine public",
+    "source": "https://commons.wikimedia.org/wiki/File:French_Renault_TRM_2000_truck.JPEG",
+    "info": {
+      "service": "1982",
+      "vitesse": "89 km/h sur route · 43 km/h en terrain accidenté",
+      "poids": "3,4 t à vide",
+      "personnes": "Peut transporter 12 hommes",
+      "autonomie": "600 km",
+      "missions": "Soutien et transport en terrain difficile : 2 t de charge utile (shelters de 10 ou 15 pieds) ou 12 hommes. Camion 4x4 : « TRM » veut dire Toutes Roues Motrices.",
+      "astuce": "Camion militaire 4x4 de taille moyenne : c'est le « petit » de la famille, face au TRM 10000 (6x6 et 10 t de charge)."
+    }
+  },
+  {
+    "name": "TRM 10000",
+    "file": "trm-10000.jpg",
+    "cat": "logistique",
+    "full": "Camion tactique lourd Renault TRM 10000",
+    "author": "AlfvanBeem",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Renault_TRM_10_000_CLD_photo-1.JPG",
+    "info": {
+      "service": "1987 (« mis en circulation en 1994 » selon le ministère des Armées)",
+      "vitesse": "80 km/h",
+      "poids": "13,5 t à vide · 29 t en charge (PTAC)",
+      "autonomie": "≈ 1 200 km",
+      "missions": "Poids lourd tactique : transport logistique de matériels et support de systèmes d'armes, en de nombreuses versions.",
+      "astuce": "Gros camion militaire 6x6 à cabine avancée, bien plus massif que le TRM 2000 (4x4)."
+    }
+  },
+  {
+    "name": "Peugeot P4",
+    "file": "peugeot-p4.jpg",
+    "cat": "logistique",
+    "full": "Véhicule léger tactique Peugeot P4",
+    "author": "Kevin.B",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peugeot_P4,_nouvelles_couleurs_Arm%C3%A9e_de_Terre_(14_juillet_2021)_(1).jpg",
+    "info": {
+      "service": "1982 (production de 1982 à 1992 ; 13 500 exemplaires commandés par l'armée)",
+      "poids": "1,75 t",
+      "missions": "Véhicule léger tout-terrain de liaison et de transport de l'armée de Terre.",
+      "statut": "Remplacé depuis 2004 par le PVP, le Land Rover Defender, le Ford Ranger, le Masstech T4 et l'ACMAT VT4",
+      "astuce": "Dérivé du Mercedes-Benz Classe G (Geländewagen) construit sous licence par Peugeot : un 4x4 carré aux lignes droites, non blindé."
+    }
+  }
 ]
