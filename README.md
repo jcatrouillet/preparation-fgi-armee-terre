@@ -6,6 +6,7 @@ Jeu web pour apprendre et réviser :
 - **📚 Culture générale** — QCM de culture générale française (histoire, géographie, institutions, fleuves…).
 - **⚔️ Culture militaire** — QCM de culture militaire.
 - **🚙 Véhicules** — reconnaître les véhicules de l'armée de Terre (blindés, artillerie, hélicoptères, camions…) à partir d'une photo.
+- **📕 Livres de référence** — les trois livres que tout soldat de l'armée de Terre doit connaître : livre orange (*Honneur, courage et dignité*, Code d'honneur du soldat), livre vert (*L'alliance du sens et de la force*) et livre kaki (*Aux sources de l'esprit guerrier*).
 
 En ligne : **http://grade.catrouillet.net**
 
@@ -15,7 +16,8 @@ En ligne : **http://grade.catrouillet.net**
 - **Culture** : QCM à 5 choix.
 - **Chrono** optionnel (10 / 5 / 3 s par question).
 - **Véhicules** : trois types de quiz — **Photo → Nom** (5 noms), **Nom → Photo** (4 photos) et **Mixte** (alternance des deux) ; les mauvaises réponses sont prises en priorité dans la même catégorie. À la réponse, le nom complet et le crédit de la photo sont affichés. Un mode **apprentissage** présente les 21 véhicules en fiches cliquables ; chaque fiche plein écran donne la date de mise en service, la vitesse, le poids, l'équipage / les passagers, l'armement (type et calibre), l'autonomie, les missions principales, un **conseil pour le reconnaître** ou le distinguer d'un véhicule voisin, et le crédit de la photo.
-- **Meilleurs scores** : trois classements Top 20 séparés (**Grades**, **Culture** et **Véhicules**), stockés côté serveur.
+- **Livres de référence** : le joueur choisit sur quel(s) livre(s) porte le quiz (215 questions à 5 choix, tirage équilibré entre les livres, référence du passage affichée à la réponse). Le mode **apprentissage** propose une fiche par livre (articles du code d'honneur, vertus, armes et traditions, emblèmes…).
+- **Meilleurs scores** : quatre classements Top 20 séparés (**Grades**, **Culture**, **Véhicules** et **Livres**), stockés côté serveur.
 - Interface responsive (ordinateur / tablette / mobile).
 - `index.html` est **autonome** : CSS, JS, images (base64) et questions y sont embarqués — il fonctionne même ouvert directement dans un navigateur.
 
@@ -28,6 +30,7 @@ En ligne : **http://grade.catrouillet.net**
 | `culture.json` | Source des questions de culture (générale + militaire). Ré-injectée dans `index.html`. |
 | `Questions culture *.txt` | Sources brutes des questions. |
 | `Vehicules/`, `vehicules.json` | Photos des véhicules et leur fiche (nom, catégorie, auteur, licence, lien source). |
+| `livres.json`, `build_livres.py` | Fiches et questions des livres orange / vert / kaki, ré-injectées dans `index.html` (`python build_livres.py`, sans dépendance). |
 | `build_vehicules.py` | Compresse les photos et les injecte dans `index.html` (`python build_vehicules.py`, nécessite Pillow). |
 | `*.jpg`, `*.png` | Images des galons (sources). |
 
@@ -67,8 +70,8 @@ Images, photos et questions sont embarquées dans `index.html` : seuls deux fich
 | Fichier | À envoyer |
 |---|---|
 | `index.html` | **Toujours** (contenu, photos, questions, interface). |
-| `server.py` | Uniquement si sa logique change (ex. ajout du jeu `vehicules` et de son classement). |
-| `Vehicules/`, `vehicules.json`, `build_vehicules.py`, `culture.json`, `*.png`, `*.txt` | **Jamais** (sources, utiles seulement en local). |
+| `server.py` | Uniquement si sa logique change (ex. ajout du jeu `livres` et de son classement). |
+| `Vehicules/`, `vehicules.json`, `livres.json`, `build_vehicules.py`, `build_livres.py`, `culture.json`, `*.png`, `*.txt` | **Jamais** (sources, utiles seulement en local). |
 | `scores.json` | **Ne pas écraser** : c'est le classement en direct. |
 
 1. En local : `python build_vehicules.py` si les photos ont changé, puis vérifier le jeu sur `http://localhost:8123`.
@@ -78,10 +81,11 @@ Images, photos et questions sont embarquées dans `index.html` : seuls deux fich
 
 En cas de problème, en SSH sur le NAS : `curl -i http://127.0.0.1:8123/api/scores`. `server.py` affiche ses erreurs dans la console et renvoie un 500 avec un champ `detail`.
 
-> Version actuelle (quiz Véhicules) : `server.py` **doit** être mis à jour, sinon les scores Véhicules sont enregistrés comme des scores Grades.
+> Version actuelle (quiz Livres) : `server.py` **doit** être mis à jour et relancé, sinon les scores Livres sont enregistrés comme des scores Grades.
 
 ## Crédits
 
 - Galons : © A. Klopfenstein / armée de Terre / Défense — à titre indicatif, usage d'entraînement.
 - Caractéristiques des véhicules (`info` dans `vehicules.json`) : [ministère des Armées](https://www.defense.gouv.fr/terre/nos-materiels/nos-equipements-terre/vehicules-larmee-terre) et Wikipédia (dates de mise en service, matériels absents du site officiel). Valeurs indicatives : elles varient selon les versions.
+- Livres de référence : © ministère des Armées / état-major de l'armée de Terre (livre vert 2018, livre kaki 2019, livre orange 2020). Les fiches et questions sont une synthèse d'entraînement ; seuls les textes originaux font foi.
 - Photos de véhicules : [Wikimedia Commons](https://commons.wikimedia.org/), sous licences libres (CC0, domaine public, Licence Ouverte, CC BY, CC BY-SA). L'auteur, la licence et le lien de chaque photo figurent dans `vehicules.json` et sont affichés dans le jeu. Les images sont des versions redimensionnées ; celles sous CC BY-SA restent sous CC BY-SA.
