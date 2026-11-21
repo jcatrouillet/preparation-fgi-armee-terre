@@ -562,18 +562,6 @@
   },
   {
    "l": "orange",
-   "q": "Le livre orange actualise un texte de 2001. Lequel ?",
-   "a": "La Directive relative aux comportements dans l'armée de Terre (ancien Code du soldat)",
-   "d": [
-    "Le Règlement de discipline générale des armées",
-    "Le Manuel d'instruction du chef de section",
-    "La Charte du soldat de l'armée de Terre",
-    "L'Instruction sur le moral et la cohésion des unités"
-   ],
-   "e": "Livre orange — Avertissement"
-  },
-  {
-   "l": "orange",
    "q": "Pourquoi le Code d'honneur est-il rédigé à la première personne ?",
    "a": "Pour que le « je » solennellement prononcé engage moralement celui qui le proclame",
    "d": [
@@ -955,18 +943,6 @@
     "Une mission mineure peut être confiée à un subordonné"
    ],
    "e": "Livre orange — Article 9, comportement attendu"
-  },
-  {
-   "l": "orange",
-   "q": "À la veille de quelle opération l'ordre du jour cité à la fin du livre orange a-t-il été rédigé ?",
-   "a": "L'offensive terrestre au Koweït et en Irak (Tempête du désert)",
-   "d": [
-    "L'opération Serval au Mali",
-    "L'opération Sangaris en Centrafrique",
-    "L'opération Licorne en Côte d'Ivoire",
-    "L'opération Harmattan en Libye"
-   ],
-   "e": "Livre orange — Article 10"
   },
   {
    "l": "vert",
@@ -1594,42 +1570,6 @@
   },
   {
    "l": "kaki",
-   "q": "Combien de régiments d'active comptait l'armée de 1914 ?",
-   "a": "Environ 400",
-   "d": [
-    "Environ 80",
-    "Environ 150",
-    "Environ 250",
-    "Environ 800"
-   ],
-   "e": "Livre kaki — Le régiment, creuset de l'esprit de corps"
-  },
-  {
-   "l": "kaki",
-   "q": "Sous quel roi a débuté l'institution du casernement ?",
-   "a": "Louis XIV",
-   "d": [
-    "François Ier",
-    "Louis XI",
-    "Louis XVI",
-    "Napoléon Ier"
-   ],
-   "e": "Livre kaki — Le régiment, creuset de l'esprit de corps"
-  },
-  {
-   "l": "kaki",
-   "q": "À quelle date les régiments passent-ils du nom du colonel propriétaire à la stricte numérotation ?",
-   "a": "Le 1er janvier 1791",
-   "d": [
-    "Le 14 juillet 1789",
-    "Le 1er janvier 1800",
-    "Le 14 juillet 1880",
-    "Le 1er août 1914"
-   ],
-   "e": "Livre kaki — Appellation et numérotation des régiments"
-  },
-  {
-   "l": "kaki",
    "q": "Quelle mesure de 1889 les réformes de structures de la fin du XIXe siècle ont-elles permis d'absorber ?",
    "a": "La conscription universelle et obligatoire de 1889",
    "d": [
@@ -1702,18 +1642,6 @@
   },
   {
    "l": "kaki",
-   "q": "Quel événement est à l'origine de l'infanterie, en 1479 ?",
-   "a": "La réunion des bandes de Picardie",
-   "d": [
-    "La bataille de Castillon",
-    "La création des compagnies d'ordonnance",
-    "La bataille de Marignan",
-    "La création des compagnies franches"
-   ],
-   "e": "Livre kaki — Les armes : l'infanterie"
-  },
-  {
-   "l": "kaki",
    "q": "Quel saint patron fêtent les fantassins ?",
    "a": "Saint Maurice",
    "d": [
@@ -1745,18 +1673,6 @@
     "L'artillerie",
     "L'ALAT",
     "Les troupes aéroportées"
-   ],
-   "e": "Livre kaki — Les armes : la cavalerie"
-  },
-  {
-   "l": "kaki",
-   "q": "Quelle année marque la création des compagnies à cheval, origine de la cavalerie ?",
-   "a": "1445",
-   "d": [
-    "1453",
-    "1479",
-    "1622",
-    "1776"
    ],
    "e": "Livre kaki — Les armes : la cavalerie"
   },
@@ -1834,18 +1750,6 @@
   },
   {
    "l": "kaki",
-   "q": "En quelle année a été fondé le corps royal du génie ?",
-   "a": "1776",
-   "d": [
-    "1453",
-    "1622",
-    "1807",
-    "1942"
-   ],
-   "e": "Livre kaki — Les armes : le génie"
-  },
-  {
-   "l": "kaki",
    "q": "Quelle bataille commémorent les sapeurs du génie ?",
    "a": "Dantzig (1807)",
    "d": [
@@ -1855,18 +1759,6 @@
     "Magenta (1859)"
    ],
    "e": "Livre kaki — Les armes : le génie"
-  },
-  {
-   "l": "kaki",
-   "q": "En quelle année le train a-t-il été créé, et où est-il commémoré ?",
-   "a": "1807, à Osterode",
-   "d": [
-    "1807, à Dantzig",
-    "1945, à Osterode",
-    "1831, à Camerone",
-    "1942, à Osterode"
-   ],
-   "e": "Livre kaki — Les armes : le train"
   },
   {
    "l": "kaki",
@@ -1903,18 +1795,6 @@
     "L'ALAT"
    ],
    "e": "Livre kaki — Les armes : les transmissions"
-  },
-  {
-   "l": "kaki",
-   "q": "En quelle année les transmissions se séparent-elles du génie ?",
-   "a": "1942",
-   "d": [
-    "1807",
-    "1943",
-    "1954",
-    "1976"
-   ],
-   "e": "Livre kaki — La culture d'arme ; les transmissions"
   },
   {
    "l": "kaki",
@@ -1966,18 +1846,6 @@
   },
   {
    "l": "kaki",
-   "q": "En quelle année l'arme du matériel est-elle constituée en tant qu'arme ?",
-   "a": "1976 (janvier)",
-   "d": [
-    "1943",
-    "1954",
-    "1942",
-    "1807"
-   ],
-   "e": "Livre kaki — Les armes : le matériel"
-  },
-  {
-   "l": "kaki",
    "q": "Quelle est la devise de l'aviation légère de l'armée de Terre (ALAT) ?",
    "a": "De la Terre, par le Ciel",
    "d": [
@@ -1985,18 +1853,6 @@
     "Voir, frapper, durer",
     "Armer et soutenir, en tout temps, en tous lieux",
     "Par les airs, pour la Terre"
-   ],
-   "e": "Livre kaki — Les armes : l'ALAT"
-  },
-  {
-   "l": "kaki",
-   "q": "En quelle année l'ALAT a-t-elle été créée ?",
-   "a": "1954",
-   "d": [
-    "1942",
-    "1945",
-    "1976",
-    "1989"
    ],
    "e": "Livre kaki — Les armes : l'ALAT"
   },
@@ -2098,18 +1954,6 @@
   },
   {
    "l": "kaki",
-   "q": "Qui a créé les compagnies franches de la Marine dont sont issues les troupes de marine, et quand ?",
-   "a": "Richelieu, en 1622",
-   "d": [
-    "Colbert, en 1669",
-    "Louis XIV, en 1661",
-    "Louis-Philippe, en 1831",
-    "Napoléon Ier, en 1803"
-   ],
-   "e": "Livre kaki — Les armes : les troupes de marine"
-  },
-  {
-   "l": "kaki",
    "q": "Quels noms portent les fantassins et artilleurs des troupes de marine ?",
    "a": "Marsouins et bigors",
    "d": [
@@ -2182,30 +2026,6 @@
   },
   {
    "l": "kaki",
-   "q": "Depuis quand les unités parachutistes françaises forgent-elles leur légende ?",
-   "a": "1937",
-   "d": [
-    "1914",
-    "1942",
-    "1954",
-    "1962"
-   ],
-   "e": "Livre kaki — Les armes : les troupes aéroportées"
-  },
-  {
-   "l": "kaki",
-   "q": "Qui a créé la « Compagnie de Chasseurs d'essai » en 1838 ?",
-   "a": "Le duc d'Orléans",
-   "d": [
-    "Louis-Philippe",
-    "Napoléon III",
-    "Le maréchal Soult",
-    "Le maréchal Bugeaud"
-   ],
-   "e": "Livre kaki — Les armes : les chasseurs"
-  },
-  {
-   "l": "kaki",
    "q": "Quelle tenue portent les chasseurs ?",
    "a": "La tenue bleue",
    "d": [
@@ -2263,18 +2083,6 @@
     "Le commandant des troupes de montagne en fonction"
    ],
    "e": "Livre kaki — Les armes : les chasseurs"
-  },
-  {
-   "l": "kaki",
-   "q": "En quelle année ont été créés les chasseurs alpins ?",
-   "a": "1888",
-   "d": [
-    "1838",
-    "1842",
-    "1889",
-    "1914"
-   ],
-   "e": "Livre kaki — Les armes : les troupes de montagne"
   },
   {
    "l": "kaki",
